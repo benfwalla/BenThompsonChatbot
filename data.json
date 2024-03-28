@@ -1,5 +1,19 @@
 [
     {
+        "title": "An Interview with Hugo Barra About a Career in Tech and the Future of VR",
+        "public_url": "https://stratechery.com/2024/an-interview-with-hugo-barra-about-a-career-in-tech-and-the-future-of-vr/",
+        "publish_date": "Thu, 28 Mar 2024 10:17:04 +0000",
+        "file_location": "./data/An Interview with Hugo Barra About a Career in Tech and the Future of VR.md",
+        "summary": "Ben Thompson discusses Hugo Barra's career progression from Nuance to Android, Xiaomi, and eventually Meta working on the Oculus team in the article \"An Interview with Hugo Barra About a Career in Tech and the Future of VR \u2013 Stratechery.\" They delve into a detailed conversation about the development of the Vision Pro device, its unique features, and implications for the future of VR technology. Hugo Barra provides insights on his experiences and challenges in the tech industry, offering valuable perspectives on innovation and product development."
+    },
+    {
+        "title": "Apple and Antitrust for Aggregators, DMA Investigations and Apple's Risk",
+        "public_url": "https://stratechery.com/2024/apple-and-antitrust-for-aggregators-dma-investigations-and-apples-risk/",
+        "publish_date": "Wed, 27 Mar 2024 13:16:50 +0000",
+        "file_location": "./data/Apple and Antitrust for Aggregators, DMA Investigations and Apple's Risk.md",
+        "summary": "In his article \"Apple and Antitrust for Aggregators,\" Ben Thompson argues that a more effective antitrust case against Apple would target developers rather than customers. He highlights the European Union's Digital Markets Act (DMA) investigations into American tech companies as a whole, including Apple. Ben points out the risk Apple faces if it were to depart from the EU market, although it is not guaranteed."
+    },
+    {
         "title": "Apple and the Monopoly Question, iPhone Market Share, Apple's Durability",
         "public_url": "https://stratechery.com/2024/apple-and-the-monopoly-question-iphone-market-share-apples-durability/",
         "publish_date": "Tue, 26 Mar 2024 12:42:46 +0000",
