@@ -1,5 +1,12 @@
 [
     {
+        "title": "The XZ Backdoor, What Happened, Open Source Safety",
+        "public_url": "https://stratechery.com/2024/the-xz-backdoor-what-happened-open-source-safety/",
+        "publish_date": "Tue, 02 Apr 2024 11:37:58 +0000",
+        "file_location": "./data/The XZ Backdoor, What Happened, Open Source Safety.md",
+        "summary": "In \"The XZ Backdoor,\" Ben Thompson explores the discovery of a backdoor in an open source project, illustrating how the backdoor was inserted and the potential consequences it poses. In \"What Happened,\" he outlines the series of events leading up to the identification of the backdoor and the subsequent response from the open source community. Lastly, in \"Open Source Safety,\" Ben examines the need for increased vigilance and security measures to prevent similar incidents in the future, emphasizing the importance of transparency and thorough code reviews."
+    },
+    {
         "title": "MLS on Vision Pro, The Vision Pro's Missing Content, The Vision Pro's DRI",
         "public_url": "https://stratechery.com/2024/mls-on-vision-pro-the-vision-pros-missing-content-the-vision-pros-dri/",
         "publish_date": "Mon, 01 Apr 2024 12:53:03 +0000",
