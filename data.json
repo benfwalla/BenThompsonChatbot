@@ -1,5 +1,12 @@
 [
     {
+        "title": "An Interview with Benedict Evans About Regulation and AI",
+        "public_url": "https://stratechery.com/2024/an-interview-with-benedict-evans-about-regulation-and-ai/",
+        "publish_date": "Wed, 03 Apr 2024 13:08:19 +0000",
+        "file_location": "./data/An Interview with Benedict Evans About Regulation and AI.md",
+        "summary": "Ben Thompson discusses his career in tech analysis in an interview with Benedict Evans, highlighting the differences in American and European regulatory approaches rooted in historical context and societal views toward technology companies. The conversation delves into the varying levels of regulation faced by tech giants, reflecting contrasting perspectives on competition and antitrust laws in the two regions. They touch on the complexities and uncertainties surrounding AI, underscoring the importance of examining ethical implications and unforeseen outcomes in the development and deployment of AI technologies."
+    },
+    {
         "title": "The XZ Backdoor, What Happened, Open Source Safety",
         "public_url": "https://stratechery.com/2024/the-xz-backdoor-what-happened-open-source-safety/",
         "publish_date": "Tue, 02 Apr 2024 11:37:58 +0000",
