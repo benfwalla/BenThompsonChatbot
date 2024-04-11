@@ -1,5 +1,12 @@
 [
     {
+        "title": "An Interview with Google Cloud CEO Thomas Kurian About Google's Enterprise AI Strategy",
+        "public_url": "https://stratechery.com/2024/an-interview-with-google-cloud-ceo-thomas-kurian-about-googles-enterprise-ai-strategy/",
+        "publish_date": "Thu, 11 Apr 2024 10:41:03 +0000",
+        "file_location": "./data/An Interview with Google Cloud CEO Thomas Kurian About Google's Enterprise AI Strategy.md",
+        "summary": "Ben Thompson interviewed Google Cloud CEO Thomas Kurian about Google's enterprise AI strategy during the Google Cloud Next conference. Kurian, with a background at Oracle, explained the company's focus on specific industries like healthcare and financial services while emphasizing the importance of hybrid and multi-cloud environments and data privacy in AI solutions. They discussed Google Cloud's product strategy centered on integrating AI into core business processes, providing optimization for large-scale AI deployment with real-world use cases and scenarios of customer experimentation and employee augmentation. Kurian highlighted Google's open platform approach that allows seamless integration with existing applications on any cloud provider and the strategic importance of AI as a competitive advantage. They also touched on data gravity, GTM strategies, utilizing large language models, and the significance of a million-token context window for advanced AI capabilities. Despite initial challenges, Google has emphasized collaboration with partners for seamless workflow solutions, targeting startups in the AI era while leveraging its advanced infrastructure. Kurian emphasized Google Cloud's independence within Google and its pivotal role in the evolving tech landscape."
+    },
+    {
         "title": "Gemini 1.5 and Google's Nature",
         "public_url": "https://stratechery.com/2024/gemini-1-5-and-googles-nature/",
         "publish_date": "Wed, 10 Apr 2024 15:15:03 +0000",
