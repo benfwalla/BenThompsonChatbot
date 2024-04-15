@@ -1,5 +1,12 @@
 [
     {
+        "title": "Intel's Modular Vision, Meta MTIA 2, Google Axion",
+        "public_url": "https://stratechery.com/2024/intels-modular-vision-meta-mtia-2-google-axion/",
+        "publish_date": "Mon, 15 Apr 2024 13:19:43 +0000",
+        "file_location": "./data/Intel's Modular Vision, Meta MTIA 2, Google Axion.md",
+        "summary": "Intel is promoting a modular vision for AI at the edge, emphasizing the importance of a flexible and customizable AI stack. Meta introduces MTIA 2, their next-generation chip, aiming to enhance AI capabilities. Google reveals Axion, a new chip, focusing on improving performance and efficiency in AI processing. These developments highlight the competitive landscape as companies invest in advancing AI technology for various applications."
+    },
+    {
         "title": "An Interview with Google Cloud CEO Thomas Kurian About Google's Enterprise AI Strategy",
         "public_url": "https://stratechery.com/2024/an-interview-with-google-cloud-ceo-thomas-kurian-about-googles-enterprise-ai-strategy/",
         "publish_date": "Thu, 11 Apr 2024 10:41:03 +0000",
