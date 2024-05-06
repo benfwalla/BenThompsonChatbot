@@ -1,5 +1,19 @@
 [
     {
+        "title": "Apple Earnings, Wearables and Vision Pro, AI Leverage",
+        "public_url": "https://stratechery.com/2024/apple-earnings-wearables-and-vision-pro-ai-leverage/",
+        "publish_date": "Mon, 06 May 2024 13:06:58 +0000",
+        "file_location": "./data/Apple Earnings, Wearables and Vision Pro, AI Leverage.md",
+        "summary": "In \"Apple Earnings,\" Ben Thompson discusses Apple's recent earnings report, highlighting the company's product maturity. He speculates on whether AI will be the key driver of a potential upgrade cycle for Apple. In \"Wearables and Vision Pro,\" Ben mentions the decline in Wearables sales and the lack of significant impact from the Vision Pro offering. Furthermore, Ben talks about the potential AI leverage for Apple in the segment titled \"AI Leverage.\""
+    },
+    {
+        "title": "An Interview with Databricks CEO Ali Ghodsi About Building Enterprise AI",
+        "public_url": "https://stratechery.com/2024/an-interview-with-databricks-ceo-ali-ghodsi-about-building-enterprise-ai/",
+        "publish_date": "Thu, 02 May 2024 12:17:14 +0000",
+        "file_location": "./data/An Interview with Databricks CEO Ali Ghodsi About Building Enterprise AI.md",
+        "summary": "Ben Thompson interviewed Databricks CEO Ali Ghodsi about building enterprise AI. They discussed the challenges of managing big data at scale, stressing the importance of collaboration in creating effective AI solutions. Ghodsi also touched on Databricks' strategy for expanding its platform's capabilities and reaching more customers."
+    },
+    {
         "title": "The NBA and Warner Bros. Discovery, Amazon and Microsoft Earnings",
         "public_url": "https://stratechery.com/2024/the-nba-and-warner-bros-discovery-amazon-and-microsoft-earnings/",
         "publish_date": "Wed, 01 May 2024 13:45:32 +0000",
