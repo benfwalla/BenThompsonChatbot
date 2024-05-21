@@ -1,5 +1,12 @@
 [
     {
+        "title": "Windows Returns",
+        "public_url": "https://stratechery.com/2024/windows-returns/",
+        "publish_date": "Tue, 21 May 2024 09:59:36 +0000",
+        "file_location": "./data/Windows Returns.md",
+        "summary": "In the article \"Windows Returns\" from Stratechery by Ben Thompson, Ben discusses how Windows has become a smaller part of Microsoft's larger ecosystem, which now includes cloud services and Office. During a recent event, Microsoft showcased its focus on these areas, highlighting the overshadowing of Windows by other products and services. Ben views this shift positively, seeing it as a step forward for Microsoft."
+    },
+    {
         "title": "Netflix and the NFL, Netflix Internalizes Ads, Comcast's Bundle",
         "public_url": "https://stratechery.com/2024/netflix-and-the-nfl-netflix-internalizes-ads-comcasts-bundle/",
         "publish_date": "Mon, 20 May 2024 10:25:00 +0000",
