@@ -1,5 +1,12 @@
 [
     {
+        "title": "An Interview with Terraform Industries CEO Casey Handmer About the Solar Energy Revolution",
+        "public_url": "https://stratechery.com/2024/an-interview-with-terraform-industries-ceo-casey-handmer-about-the-solar-energy-revolution/",
+        "publish_date": "Thu, 30 May 2024 10:47:13 +0000",
+        "file_location": "./data/An Interview with Terraform Industries CEO Casey Handmer About the Solar Energy Revolution.md",
+        "summary": "Ben Thompson interviews Casey Handmer, CEO of Terraform Industries, about the solar energy revolution. They discuss the economic advantages of solar power over nuclear energy, emphasizing its cost-effectiveness and competitive edge. Casey highlights the flexibility and resilience of solar power compared to nuclear energy, attributing these benefits to solar's decentralized nature. The conversation explores the long-term consequences of widespread access to abundant energy sources like solar power."
+    },
+    {
         "title": "AI Integration and Modularization",
         "public_url": "https://stratechery.com/2024/ai-integration-and-modularization/",
         "publish_date": "Wed, 29 May 2024 16:34:07 +0000",
