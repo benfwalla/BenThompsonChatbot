@@ -1,5 +1,12 @@
 [
     {
+        "title": "Computex 2024, Is AWS Modular or Integrated?",
+        "public_url": "https://stratechery.com/2024/computex-2024-aws-and-integration/",
+        "publish_date": "Mon, 03 Jun 2024 14:44:54 +0000",
+        "file_location": "./data/Computex 2024, Is AWS Modular or Integrated?.md",
+        "summary": "Ben Thompson delves into the latest developments at Computex 2024, where hardware is at the forefront with AI advancements taking center stage. Transitioning to discussions about AWS, Ben ponders the integrated nature of the cloud services provided by Amazon Web Services, but highlights the modular aspect of its AI efforts."
+    },
+    {
         "title": "An Interview with Terraform Industries CEO Casey Handmer About the Solar Energy Revolution",
         "public_url": "https://stratechery.com/2024/an-interview-with-terraform-industries-ceo-casey-handmer-about-the-solar-energy-revolution/",
         "publish_date": "Thu, 30 May 2024 10:47:13 +0000",
