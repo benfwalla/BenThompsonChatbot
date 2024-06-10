@@ -1,5 +1,19 @@
 [
     {
+        "title": "Apple Intelligence is Right On Time",
+        "public_url": "https://stratechery.com/2024/apple-intelligence-is-right-on-time/",
+        "publish_date": "Mon, 10 Jun 2024 13:55:20 +0000",
+        "file_location": "./data/Apple Intelligence is Right On Time.md",
+        "summary": "Ben Thompson highlights in the \"Apple Intelligence is Right On Time\" article that Apple is set to introduce AI features at WWDC, with the timing being strategic rather than late to the game. The article stresses that Apple's entry into the AI arena is well-timed to leverage the increasing momentum in the field."
+    },
+    {
+        "title": "An Interview with AMD CEO Lisa Su About Solving Hard Problems",
+        "public_url": "https://stratechery.com/2024/an-interview-with-amd-ceo-lisa-su-about-solving-hard-problems/",
+        "publish_date": "Thu, 06 Jun 2024 10:55:29 +0000",
+        "file_location": "./data/An Interview with AMD CEO Lisa Su About Solving Hard Problems.md",
+        "summary": "The article, \"An Interview with AMD CEO Lisa Su About Solving Hard Problems\" from Stratechery by Ben Thompson, covers a wide range of topics. Su reflects on her career trajectory and leadership at AMD, highlighting the company's success in developing x86 chips, gaining market share, and competing with Intel. Lessons from her time at IBM emphasize the importance of innovation and diverse perspectives. Su discusses AMD's strategic shift towards high-performance computing, customization, and partnerships with TSMC. The significance of AI and ChatGPT's impact on the industry is explored, along with AMD's focus on integrating CPUs and GPUs for AI solutions. Su also touches on AMD's competition with Nvidia, emphasizing supply constraints on the MI300, partnerships for workload optimization, and industry collaboration despite competition. The interview showcases Su's strategic vision for AMD's future in high-performance computing and her commitment to meeting customer needs while driving innovation."
+    },
+    {
         "title": "Databricks Buys Tabular, The End of Software?",
         "public_url": "https://stratechery.com/2024/databricks-buys-tabular-the-end-of-software/",
         "publish_date": "Wed, 05 Jun 2024 14:41:21 +0000",
