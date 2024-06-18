@@ -1,5 +1,19 @@
 [
     {
+        "title": "FTC Sues Adobe, The Legal Question, The Value of Doing Right",
+        "public_url": "https://stratechery.com/2024/ftc-sues-adobe-the-legal-question-the-value-of-doing-right/",
+        "publish_date": "Tue, 18 Jun 2024 14:05:25 +0000",
+        "file_location": "./data/FTC Sues Adobe, The Legal Question, The Value of Doing Right.md",
+        "summary": "In a recent Stratechery article, Ben Thompson delves into the FTC's lawsuit against Adobe, pointing out the absence of dark patterns in the company's practices while raising questions about their ethical considerations. Despite the legality of Adobe's actions, Ben underlines how choosing to prioritize ethical conduct could have led to more favorable long-term business outcomes for the company. Through his analysis, he underscores the significance of ethical decision-making for businesses, emphasizing the potential value in doing what is right in the long run."
+    },
+    {
+        "title": "The Apple-OpenAI \"Deal\", Japan and the App Store, Apple's AI Developer Risk",
+        "public_url": "https://stratechery.com/2024/the-apple-openai-deal-japan-and-the-app-store-apples-ai-developer-risk/",
+        "publish_date": "Mon, 17 Jun 2024 10:00:49 +0000",
+        "file_location": "./data/The Apple-OpenAI \"Deal\", Japan and the App Store, Apple's AI Developer Risk.md",
+        "summary": "In the article \"The Apple-OpenAI 'Deal'\", Ben Thompson discusses Apple's rumored collaboration with OpenAI in AI development. He also delves into Japan and the App Store, examining the new regulations and their impact on Apple. Furthermore, Ben emphasizes the significance of developers to Apple in the \"Apple's AI Developer Risk\" section, pointing out the potential risks of AI developers moving away from the Apple ecosystem."
+    },
+    {
         "title": "An Interview with Daniel Gross and Nat Friedman About Apple and AI",
         "public_url": "https://stratechery.com/2024/an-interview-with-daniel-gross-and-nat-friedman-about-apple-and-ai/",
         "publish_date": "Thu, 13 Jun 2024 10:12:33 +0000",
