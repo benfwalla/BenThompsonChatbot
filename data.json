@@ -1,5 +1,19 @@
 [
     {
+        "title": "Perplexity and Robots.txt, Perplexity's Defense, Google and Competition",
+        "public_url": "https://stratechery.com/2024/perplexity-and-robots-txt-perplexitys-defense-google-and-competition/",
+        "publish_date": "Mon, 24 Jun 2024 10:00:03 +0000",
+        "file_location": "./data/Perplexity and Robots.txt, Perplexity's Defense, Google and Competition.md",
+        "summary": "In the article \"Google and Competition \u2013 Stratechery\" by Ben Thompson, the author addresses the accusation that Perplexity violated robots.txt, highlighting that such actions are not illegal and are crucial to promoting competition among Aggregators. Ben argues that allowing companies like Perplexity to bypass robots.txt can lead to a more competitive environment in the industry."
+    },
+    {
+        "title": "An Interview with Scale AI CEO Alex Wang About the Data Pillar for AI",
+        "public_url": "https://stratechery.com/2024/an-interview-with-scale-ai-ceo-alex-wang-about-the-data-pillar-for-ai/",
+        "publish_date": "Thu, 20 Jun 2024 09:00:35 +0000",
+        "file_location": "./data/An Interview with Scale AI CEO Alex Wang About the Data Pillar for AI.md",
+        "summary": "In an interview with Alex Wang, CEO of Scale AI, Ben Thompson delves into the pivotal role of data in AI development. Alex highlights Scale AI's unique position in driving AI progress by providing high-quality training data for machine learning models. He stresses the importance of data quality for AI advancements, an area where Scale AI excels."
+    },
+    {
         "title": "FTC Sues Adobe, The Legal Question, The Value of Doing Right",
         "public_url": "https://stratechery.com/2024/ftc-sues-adobe-the-legal-question-the-value-of-doing-right/",
         "publish_date": "Tue, 18 Jun 2024 14:05:25 +0000",
