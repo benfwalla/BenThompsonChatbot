@@ -1,5 +1,12 @@
 [
     {
+        "title": "Crashes and Competition",
+        "public_url": "https://stratechery.com/2024/crashes-and-competition/",
+        "publish_date": "Mon, 22 Jul 2024 10:00:06 +0000",
+        "file_location": "./data/Crashes and Competition.md",
+        "summary": "In the \"Crashes and Competition\" article on Stratechery, Ben Thompson discusses how the creation of the Internet may not have been allowed if its impact had been fully understood. He points out the openness of Windows, where third-party developers had significant control, including access to the core kernel, responsible for managing a computer's hardware. Thompson's analysis underscores the potential consequences of openness in tech platforms and raises questions about the trade-offs between innovation and regulation."
+    },
+    {
         "title": "Tech For Trump, Breaking the Deal, From Inertness to Interest",
         "public_url": "https://stratechery.com/2024/tech-for-trump-breaking-the-deal-from-inertness-to-interest/",
         "publish_date": "Wed, 17 Jul 2024 13:18:07 +0000",
