@@ -1,5 +1,12 @@
 [
     {
+        "title": "An Interview with Google SVP Rick Osterloh About Pixel, Android, and Smartphone History",
+        "public_url": "https://stratechery.com/2024/an-interview-with-google-svp-rick-osterloh-about-pixel-android-and-smartphone-history/",
+        "publish_date": "Thu, 15 Aug 2024 11:53:08 +0000",
+        "file_location": "./data/An Interview with Google SVP Rick Osterloh About Pixel, Android, and Smartphone History.md",
+        "summary": "Ben Thompson interviews Google SVP Rick Osterloh about Pixel, Android, and smartphone history, exploring Osterloh's extensive mobile industry background and insights from the Made by Google event. The discussion covers smartphone evolution from feature phones to the iPhone-led modern era dominated by iOS and Android, emphasizing Google's open ecosystem approach. Rick Osterloh shares his journey from Good Technology to Motorola, discussing smartphone connectivity evolution, industry players like Apple and Samsung, and Google's Motorola acquisition. The conversation dives into smartphone integration's transition from supply chain to R&D focus, highlighting AI's role in advanced smartphone capabilities and user experience. The synergy between Android and Pixel divisions is examined, emphasizing Google's hardware and AI advancements for a cohesive user experience. AI's transformative potential in smartphones, Google's hybrid compute infrastructure, and the development of Gemini Live are explored, comparing Google and Apple's AI deployment strategies. Osterloh addresses trade-offs in Gemini Live development, user feedback-driven improvements, and the challenges of competing in the mature smartphone market against bigger players. The interview closes with reflections on balancing product innovation and broader company goals, encompassing Google's mission for accessible and useful services amidst live presentation challenges."
+    },
+    {
         "title": "Integration and Android",
         "public_url": "https://stratechery.com/2024/integration-and-android/",
         "publish_date": "Wed, 14 Aug 2024 13:52:06 +0000",
