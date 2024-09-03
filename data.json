@@ -1,5 +1,12 @@
 [
     {
+        "title": "Intel Honesty",
+        "public_url": "https://stratechery.com/2024/intel-honesty/",
+        "publish_date": "Tue, 03 Sep 2024 13:36:30 +0000",
+        "file_location": "./data/Intel Honesty.md",
+        "summary": "The article \"Intel Honesty\" by Ben Thompson suggests that splitting Intel into two separate entities, Intel MFG and Intel CO, is the most effective way to ensure the company's survival and maintain cutting-edge manufacturing within the U.S. government. By separating the manufacturing division from the rest of the company, Intel could focus on innovation and regain its competitive edge. This move would also allow Intel to partner with the U.S. government to secure funding for advanced semiconductor research and development. Additionally, the separation would provide transparency about Intel's manufacturing capabilities and potentially address any vulnerabilities in the supply chain."
+    },
+    {
         "title": "Intel Concerns, Fubo Blocks Venu",
         "public_url": "https://stratechery.com/2024/intel-concerns-fubo-blocks-venu/",
         "publish_date": "Wed, 28 Aug 2024 12:42:07 +0000",
