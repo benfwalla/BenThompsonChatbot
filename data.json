@@ -1,5 +1,12 @@
 [
     {
+        "title": "OpenAI's New Model, How o1 Works, Scaling Inference",
+        "public_url": "https://stratechery.com/2024/openais-new-model-how-o1-works-scaling-inference/",
+        "publish_date": "Mon, 16 Sep 2024 14:31:57 +0000",
+        "file_location": "./data/OpenAI's New Model, How o1 Works, Scaling Inference.md",
+        "summary": "In the article \"OpenAI's New Model, How o1 Works, Scaling Inference \u2013 Stratechery by Ben Thompson,\" Ben reviews OpenAI's latest model, o1, which effectively addresses the limitations of current Large Language Models (LLMs) by employing a different approach to language processing. This new model has demonstrated proficiency in solving crossword puzzles, showcasing its advanced capabilities. Through an analysis of how o1 functions, Ben highlights the innovative solutions it brings to the table. The article also delves into the challenges and considerations surrounding the scaling of inference with models like o1, shedding light on the complex dynamics at play in the realm of artificial intelligence and language processing technologies."
+    },
+    {
         "title": "An Interview with Zillow CEO Jeremy Wacksman About Evolving Strategy",
         "public_url": "https://stratechery.com/2024/an-interview-with-zillow-ceo-jeremy-wacksman-about-evolving-strategy/",
         "publish_date": "Thu, 12 Sep 2024 10:32:28 +0000",
