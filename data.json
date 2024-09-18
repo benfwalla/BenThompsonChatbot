@@ -1,5 +1,12 @@
 [
     {
+        "title": "Copilot Pages, Salesforce Agents",
+        "public_url": "https://stratechery.com/2024/copilot-pages-salesforce-agents/",
+        "publish_date": "Wed, 18 Sep 2024 12:13:46 +0000",
+        "file_location": "./data/Copilot Pages, Salesforce Agents.md",
+        "summary": "Ben Thompson discusses how Microsoft is approaching the concept of a unified workspace with Copilot Pages, while Salesforce is focusing on autonomous AI agents. Microsoft's Copilot Pages aim to provide a centralized location for tasks and collaboration, simplifying work processes. On the other hand, Salesforce's approach involves autonomous AI agents that can independently complete tasks. While Salesforce's approach may be more technically challenging, Ben points out that technology might not be the main obstacle in this scenario."
+    },
+    {
         "title": "Unity Scraps Runtime Fee, Back to Reality, Sony PlayStation Pro",
         "public_url": "https://stratechery.com/2024/unity-scraps-runtime-fee-back-to-reality-sony-playstation-pro/",
         "publish_date": "Tue, 17 Sep 2024 13:24:15 +0000",
