@@ -1,5 +1,12 @@
 [
     {
+        "title": "An Interview with Meta CTO Andrew Bosworth About Orion and Reality Labs",
+        "public_url": "https://stratechery.com/2024/an-interview-with-meta-cto-andrew-bosworth-about-orion-and-reality-labs/",
+        "publish_date": "Thu, 26 Sep 2024 09:34:57 +0000",
+        "file_location": "./data/An Interview with Meta CTO Andrew Bosworth About Orion and Reality Labs.md",
+        "summary": "Ben Thompson commends Meta's CTO Andrew Bosworth in \"An Interview with Meta CTO Andrew Bosworth About Orion and Reality Labs \u2013 Stratechery\" for his pivotal role at Meta, comparing CEO Mark Zuckerberg's recent keynote to Steve Jobs' presentations and praising the exceptional quality of Meta's Orion AR glasses. He describes Orion as a standalone product with a separate computing \"puck\" and foresees a competition between Apple and Meta in creating similar products. Ben acknowledges Meta's advantage in the developer and user base, especially with new VR headsets. The interview delves into Bosworth's background, highlighting his career journey and emphasis on user experience in products like the Facebook News Feed. Ben discusses the dynamics behind building the News Feed and Meta's investment in Reality Labs, noting the availability of the interview as a podcast. The conversation further explores Bosworth's transition to Meta, the debate on competing with Apple, the impressive features of the Orion device, challenges faced by developers, the AR and VR content distribution shift, the Ray-Ban partnership's significance, and Meta's focus on openness and integration in AI and products."
+    },
+    {
         "title": "Snap Spectacles, iOS 18 Contacts Crack Down",
         "public_url": "https://stratechery.com/2024/snap-spectacles-ios-18-contacts-crack-down/",
         "publish_date": "Wed, 25 Sep 2024 09:32:58 +0000",
