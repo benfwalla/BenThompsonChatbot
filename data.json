@@ -1,5 +1,12 @@
 [
     {
+        "title": "OpenAI DevDay, OpenAI's Wrenching Transition, Lonely At the Top",
+        "public_url": "https://stratechery.com/2024/openai-devday-openais-wrenching-transition-lonely-at-the-top/",
+        "publish_date": "Wed, 02 Oct 2024 12:42:23 +0000",
+        "file_location": "./data/OpenAI DevDay, OpenAI's Wrenching Transition, Lonely At the Top.md",
+        "summary": "In \"OpenAI DevDay,\" the 2024 event showcased a distinct shift from the previous year, highlighting the substantial transformations underway at OpenAI triggered by the unexpected triumph of ChatGPT. Acknowledging the company's Wrenching Transition, the growing pains and challenges are apparent as OpenAI navigates its evolving landscape. Despite its success, OpenAI grapples with being \"Lonely At the Top,\" a byproduct of its pioneering position in the AI field, possibly isolating it from external support and perspectives."
+    },
+    {
         "title": "Taking Waymo, Uber and Waymo",
         "public_url": "https://stratechery.com/2024/taking-waymo-uber-and-waymo/",
         "publish_date": "Tue, 01 Oct 2024 09:30:16 +0000",
