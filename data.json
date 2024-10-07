@@ -1,5 +1,12 @@
 [
     {
+        "title": "U.S. Communications Hacked, The History of CALEA, Encryption and Backdoors",
+        "public_url": "https://stratechery.com/2024/u-s-communications-hacked-the-history-of-calea-encryption-and-backdoors/",
+        "publish_date": "Mon, 07 Oct 2024 09:39:59 +0000",
+        "file_location": "./data/U.S. Communications Hacked, The History of CALEA, Encryption and Backdoors.md",
+        "summary": "In his article \"U.S. Communications Hacked, The History of CALEA, Encryption and Backdoors \u2013 Stratechery,\" Ben Thompson discusses how China was able to hack into U.S. communications due to a vulnerability in the system created by Congress and the FCC. This vulnerability stemmed from the Communications Assistance for Law Enforcement Act (CALEA), which mandated that telecommunications companies create backdoors for law enforcement to access communications. This incident underscores the ongoing debate surrounding encryption and backdoors, as well as the unintended consequences of government regulations in the tech industry."
+    },
+    {
         "title": "An Interview with Gregory Allen About Transforming U.S. Defense",
         "public_url": "https://stratechery.com/2024/an-interview-with-gregory-allen-about-transforming-u-s-defense/",
         "publish_date": "Thu, 03 Oct 2024 09:30:19 +0000",
