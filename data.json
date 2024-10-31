@@ -1,5 +1,12 @@
 [
     {
+        "title": "An Interview with Synopsys CEO Sassine Ghazi About Designing Chips",
+        "public_url": "https://stratechery.com/2024/an-interview-with-synopsys-ceo-sassine-ghazi-about-designing-chips/",
+        "publish_date": "Thu, 31 Oct 2024 10:19:30 +0000",
+        "file_location": "./data/An Interview with Synopsys CEO Sassine Ghazi About Designing Chips.md",
+        "summary": "Ben Thompson's interview with Synopsys CEO Sassine Ghazi delves into the evolution of chip design from manual drafting boards to software and now AI. They discuss the importance of verification in design processes and the shifting dynamics between Synopsys and TSMC. Additionally, Ghazi touches on the acquisition of Ansys and the expansion of Synopsys into system design. Regulatory issues around China and Intel were purposely avoided in the conversation. The in-person setting allowed for more extensive exchanges during the interview. In the interview with Synopsys CEO Sassine Ghazi, he highlights the importance of electronic design automation (EDA) tools in the chip design process and the challenges in developing IP customized for applications like AI and 5G. Ghazi emphasizes collaboration with partners like TSMC for optimized chip designs and discusses the trend towards specialized chips and customization at the system level. TSMC's role in semiconductor manufacturing, designing chips for AI applications, and the shift towards system-level optimization are also key points in the interview. Ben and Ghazi also touch on Synopsys adding value at the system level, chip verification's importance, and Synopsys' adaptation to the evolving EDA industry. They talk about complexity driving innovation and Synopsys' commitment to innovative software solutions. The conversation covers the transformation of Synopsys in offering IP, collaborating closely with TSMC for semiconductor success, and the application of AI in streamlining chip design processes. The shift towards chiplets for improved performance and power management, along with the involvement of companies like Ansys in addressing design challenges, is also discussed. Generative AI's role in chip design and the importance of high accuracy in the process conclude the insightful interview."
+    },
+    {
         "title": "Google Earnings, YouTube Financials, AI Optimism",
         "public_url": "https://stratechery.com/2024/google-earnings-youtube-financials-ai-optimism/",
         "publish_date": "Wed, 30 Oct 2024 13:49:49 +0000",
