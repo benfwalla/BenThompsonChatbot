@@ -1,5 +1,12 @@
 [
     {
+        "title": "An Interview with Understanding AI Author Timothy B. Lee",
+        "public_url": "https://stratechery.com/2024/an-interview-with-understanding-ai-author-timothy-b-lee/",
+        "publish_date": "Thu, 07 Nov 2024 12:30:01 +0000",
+        "file_location": "./data/An Interview with Understanding AI Author Timothy B. Lee.md",
+        "summary": "Ben Thompson interviews Timothy B. Lee in a Stratechery article, where they delve into the current state of AI. They discuss the remarkable progress made in the field and its potential applications, while also highlighting the limitations of Large Language Models (LLMs) like GPT-3, focusing on issues such as bias, interpretability, and ethical implications. The conversation transitions to the competition in self-driving cars, debating whether Tesla or traditional automakers like Waymo will emerge as leaders in the field. The dialogue sheds light on the complexities and future directions of AI technology and its practical implementations."
+    },
+    {
         "title": "President Trump, Take Two; Big Tech, Little Tech, Chips, and Hardware; Elon Musk's Triumph",
         "public_url": "https://stratechery.com/2024/president-trump-take-two-big-tech-little-tech-chips-and-hardware-elon-musks-triumph/",
         "publish_date": "Wed, 06 Nov 2024 13:39:10 +0000",
