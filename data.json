@@ -1,5 +1,12 @@
 [
     {
+        "title": "DeepSeek FAQ",
+        "public_url": "https://stratechery.com/2025/deepseek-faq/",
+        "publish_date": "Mon, 27 Jan 2025 14:05:14 +0000",
+        "file_location": "./data/DeepSeek FAQ.md",
+        "summary": "The Stratechery article \"DeepSeek FAQ\" by Ben Thompson delves into DeepSeek's revolutionary `R1` model, highlighting the importance of the `V3` model in the broader AI meta-discussion. Ben explores the innovative development of the `R1` and `R1`\\-Zero models through reinforcement learning, focusing on their multi-token prediction and reasoning capabilities. The article addresses concerns about AI distillation, OpenAI's strategic positioning, China's open-source model strategy, and the potential implications on Nvidia and the chip ban. Ben also analyzes the competitive landscape, stressing the shift towards efficiency and the long-term benefits of AI commoditization."
+    },
+    {
         "title": "An Interview with Daniel Gross and Nat Friedman About Models, Margins, and Moats",
         "public_url": "https://stratechery.com/2025/an-interview-with-daniel-gross-and-nat-friedman-about-models-margins-and-moats/",
         "publish_date": "Thu, 23 Jan 2025 11:31:49 +0000",
