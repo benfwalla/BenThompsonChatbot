@@ -1,5 +1,26 @@
 [
     {
+        "title": "An Interview with ServiceNow CEO Bill McDermott about Enterprise AI Agents",
+        "public_url": "https://stratechery.com/2025/an-interview-with-servicenow-ceo-bill-mcdermott-about-enterprise-ai-agents/",
+        "publish_date": "Thu, 06 Feb 2025 10:56:31 +0000",
+        "file_location": "./data/An Interview with ServiceNow CEO Bill McDermott about Enterprise AI Agents.md",
+        "summary": "In an extensive conversation with ServiceNow CEO Bill McDermott, Ben Thompson provides a comprehensive overview of McDermott's career trajectory from Deli to Xerox, SAP, and finally ServiceNow. McDermott's journey showcases the importance of hard work, customer service, and seizing opportunities, leading him to ServiceNow due to the company's potential for enterprise software innovation. The interview delves into the rise of AI agents in enhancing productivity, with McDermott foreseeing their ubiquitous presence in streamlining workflows and providing personalized recommendations. ServiceNow's strategic response to the pandemic and focus on selective hiring processes and innovative AI products solidify its position in the tech industry. The discussion also covers the integration of AI across different enterprise functions, the benefits of agentic AI in automation and decision-making, and the potential for new job opportunities amidst concerns of AI-related job displacement. McDermott emphasizes ServiceNow's commitment to customer partnership and continuous innovation in driving business transformation, as the company adopts a hybrid business model combining traditional pricing with agentic AI innovation."
+    },
+    {
+        "title": "Google Earnings, Search Status, China Antitrust Actions",
+        "public_url": "https://stratechery.com/2025/google-earnings-search-status-china-antitrust-actions/",
+        "publish_date": "Wed, 05 Feb 2025 12:34:02 +0000",
+        "file_location": "./data/Google Earnings, Search Status, China Antitrust Actions.md",
+        "summary": "In the article \"Google Earnings, Search Status, China Antitrust Actions\" on Stratechery by Ben Thompson, Ben shares insights on Google's recent earnings report, highlighting that investor disappointment may be exaggerated and acknowledging the positive AI-driven outcomes for Google Search. He also discusses China's antitrust actions against Google and Apple, emphasizing the contrasting reasons behind each investigation. In the \"Frequently-Asked Questions\" section, Ben addresses various subscription-related inquiries regarding the Stratechery Podcast and updates, including how to subscribe, limitations on sharing subscriptions, purchasing team subscriptions, transitioning to an annual plan, and student discount availability. He explains the option to request custom invoices for annual subscribers and the potential future support for native custom invoices. Ben mentions the ability to give subscriptions as gifts through the dedicated gifts page on the Stratechery website."
+    },
+    {
+        "title": "Apple Earnings, OpenAI Deep Research, The Unbundling of Substantiation",
+        "public_url": "https://stratechery.com/2025/apple-earnings-openai-deep-research-the-unbundling-of-substantiation/",
+        "publish_date": "Tue, 04 Feb 2025 12:48:42 +0000",
+        "file_location": "./data/Apple Earnings, OpenAI Deep Research, The Unbundling of Substantiation.md",
+        "summary": "In the \"Apple Earnings\" section, Ben analyzes Apple's earnings, while in \"OpenAI Deep Research,\" he discusses the separation of substantiation from creation. Stratechery Plus offers exclusive content like the Stratechery Update, Stratechery Interviews, and multiple podcasts such as Dithering, Sharp Tech, Sharp China, and The Greatest of All Talk. Subscription options include SMS, RSS, and website delivery with auto-renewal, as well as team or company subscriptions. Ben addresses \"Frequently-Asked Questions\" by guiding subscribers on accessing the Stratechery Podcast, setting up RSS via Stratechery Passport, discouraging account sharing, and highlighting affordable pricing. The possibility of custom invoices for annual subscribers is also mentioned."
+    },
+    {
         "title": "The De Minimis Loophole, Impact on Amazon and Meta, AI and Abundance",
         "public_url": "https://stratechery.com/2025/the-de-minimis-loophole-impact-on-amazon-and-meta-ai-and-abundance/",
         "publish_date": "Mon, 03 Feb 2025 13:39:16 +0000",
