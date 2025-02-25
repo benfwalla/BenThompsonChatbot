@@ -1,5 +1,12 @@
 [
     {
+        "title": "AI Promise and Chip Precariousness",
+        "public_url": "https://stratechery.com/2025/ai-promise-and-chip-precariousness/",
+        "publish_date": "Tue, 25 Feb 2025 16:53:54 +0000",
+        "file_location": "./data/AI Promise and Chip Precariousness.md",
+        "summary": "In \"AI Promise and Chip Precariousness,\" Ben discusses the advancements in AI models, noting that Anthropic's Claude Sonnet 3.7 falls within the GPT-4 class, suggesting that Gen3 models like Grok 3 should have distinct classifications. Meanwhile, the state of AI chips is thriving, with Nvidia, AMD, and Huawei playing significant roles. TSMC is dominating over Intel, necessitating a shift to a foundry model for competitiveness. In \"China and a Changing World,\" Ben explores the global semiconductor industry's shift to Asia and the implications for the U.S. amid changing geopolitics. \"Trump, Taiwan, and TSMC\" delves into the complexities of U.S.-China chip dependencies, while \"What To Do\" highlights the challenges and trade-offs in proposing solutions. Ben's suggestions in \"End the China Chip Ban\" involve reevaluating restrictions on China for broader strategic implications. \"Double Down on the Semiconductor Equipment Ban\" emphasizes plugging loopholes in restrictions to benefit Taiwan's importance, while \"Build Trailing Edge Fabs in the U.S.\" suggests subsidies for U.S. trailing edge chip production. Lastly, \"Intel and the Leading Edge\" proposes strategic moves to establish a strong AI industry on U.S.-made chips."
+    },
+    {
         "title": "The iPhone 16e; Apple Intelligence Table Stakes; Apple vs. U.K, Continued",
         "public_url": "https://stratechery.com/2025/the-iphone-16e-apple-intelligence-table-stakes-apple-vs-u-k-continued/",
         "publish_date": "Mon, 24 Feb 2025 15:47:27 +0000",
