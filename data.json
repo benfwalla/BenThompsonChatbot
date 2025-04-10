@@ -1,5 +1,145 @@
 [
     {
+        "title": "An Interview with Google Cloud Platform CEO Thomas Kurian About Building an Enterprise Culture",
+        "public_url": "https://stratechery.com/2025/an-interview-with-google-cloud-platform-ceo-thomas-kurian-about-building-an-enterprise-culture/",
+        "publish_date": "Thu, 10 Apr 2025 09:56:12 +0000",
+        "file_location": "./data/An Interview with Google Cloud Platform CEO Thomas Kurian About Building an Enterprise Culture.md",
+        "summary": "Ben introduces an interview with Google Cloud Platform CEO Thomas Kurian, praising Kurian's efforts in building an enterprise service culture and highlighting the recent Google Cloud Next conference keynote. Kurian discusses the company's focus on understanding customers' specific needs, compliance requirements, and industry regulations, providing tailored solutions for different verticals. He also emphasizes the importance of upskilling employees to optimize GCP services. Kurian outlines Google Cloud's commitment to providing top-notch infrastructure for AI adoption, introducing new products like TPUs, Nvidia GPUs, and Cloud WAN for training models and inferencing. The conversation delves into Google Cloud's culture change to adapt to the multi-cloud trend, focusing on effective partnerships and cross-cloud data analysis with products like BigQuery. Kurian discusses the acquisition of Wiz for cybersecurity and the range of TPU and GPU options available to meet diverse AI model needs. The dialogue also covers media models in various industries, showcasing success stories like The Wizard of Oz project and the rapid delivery of models to customers, underscoring the importance of enterprise channels in promoting these tools."
+    },
+    {
+        "title": "American Disruption",
+        "public_url": "https://stratechery.com/2025/american-disruption/",
+        "publish_date": "Wed, 09 Apr 2025 11:28:45 +0000",
+        "file_location": "./data/American Disruption.md",
+        "summary": "In \"American Disruption,\" Ben reflects on previous Stratechery articles that missed the mark due to uncertainties in predictions, particularly regarding Trump's tariffs. He links America's struggle with modern warfare and high tech production to disruption, emphasizing it as the root cause. \"The Disruption of American Manufacturing\" explores Clayton Christensen's theories, highlighting how innovation in chip production remained in the U.S. while assembly tasks moved to Asia due to cost advantages. Ben discusses the challenges of moving downmarket for companies and countries like the U.S., citing Apple's influence in boosting China's manufacturing capabilities. In \"Beyond Disruption,\" he underscores the importance of catering to demand over supply control in the digital age, using Uber as an example. Ben advocates for a strategic approach to tariffs in \"A Better Plan,\" stressing the need for selective tariffs to incentivize final assembly in trustworthy countries instead of blanket tariffs. Finally, in \"The Melancholy of Internet 3.0,\" Ben expresses disillusionment over the decline of a unique American spirit in technology and advocates for a forward-looking mindset for shaping a new world order."
+    },
+    {
+        "title": "Apple's China Problem, Apple in the Short Term, Tech's Complement Risk",
+        "public_url": "https://stratechery.com/2025/apples-china-problem-apple-in-the-short-term-techs-complement-risk/",
+        "publish_date": "Tue, 08 Apr 2025 13:26:44 +0000",
+        "file_location": "./data/Apple's China Problem, Apple in the Short Term, Tech's Complement Risk.md",
+        "summary": "Ben Thompson discusses Apple's challenges in China due to tariffs and the company's contributions to China's tech advancement. He also delves into Apple's short-term strategies and analyzes potential risks in the tech industry regarding complementary technologies. Additionally, Ben addresses frequently-asked subscription questions, such as how to subscribe to the Stratechery Podcast and read content via RSS. He highlights individual subscription usage, team subscription options, switching to an annual plan, student pricing, custom invoices for annual subscribers, and gifting subscriptions to others."
+    },
+    {
+        "title": "Trade, Tariffs, and Tech",
+        "public_url": "https://stratechery.com/2025/trade-tariffs-and-tech/",
+        "publish_date": "Mon, 07 Apr 2025 12:05:39 +0000",
+        "file_location": "./data/Trade, Tariffs, and Tech.md",
+        "summary": "In the article \"Trade, Tariffs, and Tech\" by Ben Thompson, the author discusses the potential outcomes of a conflict between China and Taiwan, highlighting China's manufacturing advantage and the interconnectedness of global supply chains. Ben delves into the historical context of U.S. trade policies post-World War 2, emphasizing China's role in the trade system and its impact on U.S. manufacturing. He also explores the Nixon Shock, drawing parallels between the past economic turmoil and the current trade tariffs. Ben questions the need for a new economic system and suggests addressing structural problems through regulation relief and equal economic opportunities. In the section on tech and tariffs, he discusses how companies like Apple benefit from Asian manufacturing while facing challenges from tariffs, potentially leading to price hikes and decreased sales. Ben predicts negative impacts on advertising-based firms like Meta, Google, and Amazon due to reduced consumer spending and regulatory risks. Overall, the article provides a comprehensive analysis of the intertwined issues surrounding trade, tariffs, and technology in the global economy."
+    },
+    {
+        "title": "An Interview with Snowflake CEO Sridhar Ramaswamy About Data and AI",
+        "public_url": "https://stratechery.com/2025/an-interview-with-snowflake-ceo-sridhar-ramaswamy-about-data-and-ai/",
+        "publish_date": "Thu, 27 Mar 2025 10:18:40 +0000",
+        "file_location": "./data/An Interview with Snowflake CEO Sridhar Ramaswamy About Data and AI.md",
+        "summary": "In an illuminating conversation between Ben and Snowflake CEO Sridhar Ramaswamy, they delve into a wide array of topics. Starting with Sridhar's journey from Google to Neeva, the discussion transitions to his takeover at Snowflake post-acquisition and the subsequent integration of AI into the platform. The evolution of Snowflake's business model, go-to-market strategies, and focus on AI advancements are thoroughly examined, highlighting the company's innovative approach in the intersection of data and AI. The conversation encompasses the significance of balancing human judgement with AI capabilities in data analysis, the strategic moves to expand Snowflake's value proposition through product enhancements, and the vision of solidifying Snowflake as an integral data partner in the enterprise ecosystem alongside industry giants like Google and Meta over the coming years."
+    },
+    {
+        "title": "OpenAI's New Image Model, Graphic Design and Google, More on Security",
+        "public_url": "https://stratechery.com/2025/openais-new-image-model-graphic-design-and-google-more-on-security/",
+        "publish_date": "Wed, 26 Mar 2025 14:40:47 +0000",
+        "file_location": "./data/OpenAI's New Image Model, Graphic Design and Google, More on Security.md",
+        "summary": "Ben explores OpenAI's new image generation capabilities and their implications for artificial general intelligence (AGI), while also touching on the broader aspect of security beyond encryption. He emphasizes the value of Stratechery Plus subscriptions, offering access to exclusive content like the Stratechery Update, Stratechery Interviews, and various podcasts. In the Frequently-Asked Questions section, Ben covers sharing restrictions, team subscriptions, annual plan switching with student discounts, custom invoices for annual subscribers, the potential for native support for custom invoices, and gifting subscriptions."
+    },
+    {
+        "title": "The Trump Administration Group Chat, Signal: The Coke of Secure Messaging, Transparency Versus Security",
+        "public_url": "https://stratechery.com/2025/the-trump-administration-group-chat-signal-the-coke-of-secure-messaging-transparency-versus-security/",
+        "publish_date": "Tue, 25 Mar 2025 12:05:50 +0000",
+        "file_location": "./data/The Trump Administration Group Chat, Signal: The Coke of Secure Messaging, Transparency Versus Security.md",
+        "summary": "Ben Thompson discusses the implications of the Trump administration's mishap with Signal, emphasizing the complexities of secure messaging and the ongoing struggle to balance transparency and security. To subscribe to the Stratechery Podcast, one must adjust their Delivery Preferences on the website post-subscription. Accessing Stratechery via RSS entails creating a Stratechery Passport account and customizing the feed. Sharing subscriptions is prohibited under the Terms of Service, although occasional forwarding is acceptable. Teams can purchase subscriptions, while individuals can switch to an annual plan or inquire about student discounts. For custom invoices, annual subscribers can contact Stratechery, with plans for adding native support for custom invoices in Passport in the future. Subscriptions can also be gifted through the dedicated gifts page."
+    },
+    {
+        "title": "YouTube TV, Wiz, and Why Monopolies Buy Innovation",
+        "public_url": "https://stratechery.com/2025/youtube-tv-wiz-and-why-monopolies-buy-innovation/",
+        "publish_date": "Mon, 24 Mar 2025 15:02:47 +0000",
+        "file_location": "./data/YouTube TV, Wiz, and Why Monopolies Buy Innovation.md",
+        "summary": "In Ben Thompson's article on Stratechery, he discusses various topics such as YouTube TV, Wiz, and the strategic moves made by Google in the entertainment and tech industries. The article starts with a comparison between Warner Bros. Discovery's Max and YouTube TV's multiview feature during March Madness, highlighting YouTube TV's superior viewing experience due to its access to all cable games. Ben then delves into the history of multiview technology, pointing out YouTube TV's virtual advantage as a virtual Multichannel Video Programming Distributor (vMVPD), enabling them to offer a comprehensive multiview feature without requiring high-powered set-top boxes in viewers' homes. Furthermore, he analyzes YouTube TV's acquisition of NFL Sunday Ticket rights for the 2023 season, emphasizing the platform's aggregation potential and its aim to become the go-to destination for various video content types. Ben also touches upon Google's challenges in product development and aggregation, comparing it to competitors like Amazon and Apple in the streaming space. Finally, he examines Google's strategic acquisition of cybersecurity firm Wiz for $32 billion in cash, aligning with Google Cloud's growth strategy and enhancing AI capabilities in multi-cloud management."
+    },
+    {
+        "title": "An Interview with OpenAI CEO Sam Altman About Building a Consumer Tech Company",
+        "public_url": "https://stratechery.com/2025/an-interview-with-openai-ceo-sam-altman-about-building-a-consumer-tech-company/",
+        "publish_date": "Thu, 20 Mar 2025 09:51:56 +0000",
+        "file_location": "./data/An Interview with OpenAI CEO Sam Altman About Building a Consumer Tech Company.md",
+        "summary": "In the interview with OpenAI CEO Sam Altman, Ben Thompson delves into Altman's background, motivations, and the evolution of OpenAI, particularly focusing on the introduction of ChatGPT. Altman shares his journey from growing up in St. Louis to founding Loopt and transitioning to Y Combinator, highlighting the transformation of OpenAI from a research lab to a driving force in AGI development. The origin story of ChatGPT reveals strategic decisions made to manage scaling challenges and embrace the unexpected growth of OpenAI as a consumer-facing entity. Despite initial reluctance, OpenAI found success as a consumer tech company, emphasizing the importance of seizing opportunities in the fast-evolving AI landscape. Discussions with Ben touch on topics like advertising, competition, hallucinations, and regulation, highlighting the need for cautious releases and responsible AI advancement. Altman explores the outlook for AI, mentioning possibilities like automated code authorship and the nuances of defining AGI while acknowledging its gradual integration into various industries. Overall, the conversation with Altman offers insights into the strategic decisions and philosophical considerations shaping OpenAI's trajectory in the tech industry."
+    },
+    {
+        "title": "Nvidia GTC and ASICs, The Power Constraint, The Pareto Frontier",
+        "public_url": "https://stratechery.com/2025/nvidia-gtc-and-asics-the-power-constraint-the-pareto-frontier/",
+        "publish_date": "Wed, 19 Mar 2025 11:30:46 +0000",
+        "file_location": "./data/Nvidia GTC and ASICs, The Power Constraint, The Pareto Frontier.md",
+        "summary": "In his article \"Nvidia GTC and ASICs\", Ben interprets Jensen Huang's keynote at GTC as a strong testament to Nvidia's superiority over ASICs in the realm of inference. In the \"Frequently-Asked Questions\" section, Ben provides details on how subscribers can access the Stratechery Podcast on their preferred podcast player and read Stratechery via RSS by creating a Stratechery Passport account. He emphasizes the prohibition against sharing subscriptions or podcasts but allows occasional forwarding. Ben notes the option for team subscriptions and easily switching to an annual plan on the account page. He highlights Stratechery's affordability for students and the availability of custom invoices for annual subscribers."
+    },
+    {
+        "title": "Intel's New CEO, Reevaluating Gelsinger, Lip-Bu Tan and Cadence",
+        "public_url": "https://stratechery.com/2025/intels-new-ceo-reevaluating-gelsinger-lip-bu-tan-and-cadence/",
+        "publish_date": "Tue, 18 Mar 2025 12:52:07 +0000",
+        "file_location": "./data/Intel's New CEO, Reevaluating Gelsinger, Lip-Bu Tan and Cadence.md",
+        "summary": "Ben Thompson discusses Intel's new CEO and questions the reevaluation of Pat Gelsinger's leadership at Intel, considering if his departure was solely due to poor execution. Thompson emphasizes the value of subscribing to Stratechery Plus for exclusive content access, including the Stratechery Update and Stratechery Interviews, along with podcasts such as Dithering, Sharp Tech, Sharp China, and the Greatest Of All Talk, providing in-depth tech industry analysis and discussions. He also addresses FAQs regarding subscribing to the Stratechery Podcast, using RSS for content access, sharing subscriptions, team subscriptions, annual plans, student discounts, custom invoices, and gifting subscriptions. Ben clarifies instructions on managing subscriptions, highlights the terms of service on sharing, notes the availability of annual plans, hints at possible future native support for custom invoices, and mentions the option to gift subscriptions to others."
+    },
+    {
+        "title": "Metallica on Vision Pro, Non-Immersive Immersive Video, Ping and AI",
+        "public_url": "https://stratechery.com/2025/metallica-on-vision-pro-non-immersive-immersive-video-ping-and-ai/",
+        "publish_date": "Mon, 17 Mar 2025 12:52:19 +0000",
+        "file_location": "./data/Metallica on Vision Pro, Non-Immersive Immersive Video, Ping and AI.md",
+        "summary": "Ben Thompson expresses disappointment in Metallica's performance on the Vision Pro device, highlighting Apple's control over the experience. He encourages readers to subscribe to Stratechery Plus for exclusive content like the Stratechery Update, Stratechery Interviews, podcasts such as Dithering, Sharp Tech, and Sharp China, and shows like The Greatest Of All Talk. Ben outlines various delivery options for Stratechery Updates, noting that subscriptions auto-renew but can be canceled anytime. In the Frequently-Asked Questions section, Ben explains how to subscribe to the Stratechery Podcast and access RSS feeds. He mentions the option to buy team subscriptions, switch to annual plans, and the exclusion of student discounts due to the low pricing. Custom invoices are available for annual subscribers and may soon be supported for all subscribers through Passport. Subscriptions can also be gifted through the designated gifts page on the Stratechery website."
+    },
+    {
+        "title": "An Interview with Tailscale Co-Founder and CEO Avery Pennarun",
+        "public_url": "https://stratechery.com/2025/an-interview-with-tailscale-co-founder-and-ceo-avery-pennarun/",
+        "publish_date": "Thu, 13 Mar 2025 10:01:53 +0000",
+        "file_location": "./data/An Interview with Tailscale Co-Founder and CEO Avery Pennarun.md",
+        "summary": "Ben interviewed Avery Pennarun, the CEO of Tailscale, discussing how Pennarun has been learning to build a New Internet his whole life. The interview highlights Tailscale and Pennarun's insights into networking and technology. The interview took place in the context of Stratechery Plus, a subscription service offering access to various podcasts and exclusive content. Stratechery Plus provides subscribers with access to the Stratechery Update, Stratechery Interviews, and podcasts like Sharp Tech and Sharp China. Subscription details for Stratechery Plus are outlined, giving potential subscribers an overview of the offerings available. Ben explains that listeners can subscribe to the Stratechery Podcast by following easy-to-follow instructions on the Delivery Preferences page. He also mentions that readers can access Stratechery via RSS by creating a Stratechery Passport account and adding their personalized RSS feed. Ben clarifies that sharing a Stratechery Update subscription or RSS feed is against the Terms of Service, but occasional forwarding of updates to interested friends or colleagues is allowed. Additionally, Ben notes that team subscriptions are available for purchase, as well as the option to switch to an annual plan for current subscribers seeking a prorated discount. Lastly, he mentions that Stratechery intentionally offers a low price to make it accessible to everyone, including students, and explains that custom invoices are available for annual subscribers upon request."
+    },
+    {
+        "title": "OpenAI API Updates, Steelmanning the API Business, The Problem With Both",
+        "public_url": "https://stratechery.com/2025/openai-api-updates-steelmanning-the-api-business-the-problem-with-both/",
+        "publish_date": "Wed, 12 Mar 2025 13:54:14 +0000",
+        "file_location": "./data/OpenAI API Updates, Steelmanning the API Business, The Problem With Both.md",
+        "summary": "In the article \"OpenAI API Updates, Steelmanning the API Business, The Problem With Both\" on Stratechery by Ben Thompson, Ben explores the potential impact of OpenAI's API updates on the API business, questioning whether it will ultimately benefit OpenAI. In the section \"Frequently-Asked Questions,\" Ben clarifies that subscribers can add the Stratechery Podcast to their favorite podcast player through their Stratechery Passport account and outlines the sharing and subscription options available, including team subscriptions and the ability to switch to an annual plan for a discount. He also mentions the affordability of Stratechery's prices, catering to students, and the option for custom invoices for annual subscribers."
+    },
+    {
+        "title": "A Google I/O Idea, The Smartphone AI Value Chain, Apple's Developer Hang-Ups",
+        "public_url": "https://stratechery.com/2025/a-google-i-o-idea-the-smartphone-ai-value-chain-apples-developer-hang-ups/",
+        "publish_date": "Tue, 11 Mar 2025 13:40:53 +0000",
+        "file_location": "./data/A Google I/O Idea, The Smartphone AI Value Chain, Apple's Developer Hang-Ups.md",
+        "summary": "Ben Thompson discusses the idea behind Google's point of integration and its significance in relation to Apple and AI, suggesting Apple's potential positioning in response. He delves into the value chain of smartphone AI, analyzing how different players contribute to the development and deployment of AI on smartphones. Furthermore, Ben explores Apple's Developer Hang-Ups, shedding light on the reasons behind the perceived tension between Apple and developers. In the Frequently-Asked Questions section, Ben addresses various common inquiries about subscribing to the Stratechery Podcast, sharing subscriptions, team subscriptions, annual plans, student discounts, custom invoices, and gifting subscriptions. Students can access Stratechery at a discounted rate, while annual subscribers can request personalized invoices. Plans are in place to introduce native support for custom invoices in Passport, and users can gift subscriptions through the dedicated gifts page."
+    },
+    {
+        "title": "Apple AI's Platform Pivot Potential",
+        "public_url": "https://stratechery.com/2025/apple-ais-platform-pivot-potential/",
+        "publish_date": "Mon, 10 Mar 2025 12:00:05 +0000",
+        "file_location": "./data/Apple AI's Platform Pivot Potential.md",
+        "summary": "Ben Thompson discusses Apple's potential pivot towards becoming a platform for artificial intelligence in his article \"Apple AI\u2019s Platform Pivot Potential.\" He highlights Apple's shift from vertical integration to opening up its ecosystem for AI developers, leveraging its massive user base to create a powerful AI platform. In \"Apple\u2019s Bad Week,\" Ben reflects on Apple's struggle with AI, particularly Siri's delayed feature, potential security risks, and the consequences of not addressing them earlier. \"Apple\u2019s Great Week\" outlines the introduction of the M3 Ultra chip, setting new standards in AI capabilities for consumer hardware. In \"Apple Intelligence vs. Apple Silicon,\" Ben compares the delay in Apple Intelligence development with the strategic launch of M3 Ultra. \"Apple Silicon\" delves into Apple's nuanced decision-making process behind developing efficient consumer AI chips like M3 Ultra. In \"Apple Intelligence,\" Ben discusses Apple's motivation for generative AI development and the challenges faced with the delay. \"The Incumbent Advantage\" explores Siri's struggles compared to competitors like Amazon, emphasizing the importance of focusing on functionality. Lastly, in \"An AI Platform,\" Ben suggests that Apple should leverage its hardware advancements to become a platform for AI developers, enabling unforeseen innovations in the market."
+    },
+    {
+        "title": "An Interview with Michael Nathanson About the Streaming Endgame",
+        "public_url": "https://stratechery.com/2025/an-interview-with-michael-nathanson-about-the-streaming-endgame/",
+        "publish_date": "Thu, 06 Mar 2025 10:29:47 +0000",
+        "file_location": "./data/An Interview with Michael Nathanson About the Streaming Endgame.md",
+        "summary": "Ben discusses his interview with Michael Nathanson on the endgame for traditional media companies as the streaming wars near their end. He also touches on AI bubble questions and the future of analysis in the interview. The podcast offers substantial analysis of the news of the day in three weekly emails or podcasts. Stratechery Interviews feature discussions with leading public CEOs, private company founders, and fellow analysts. Additionally, there are various podcasts available for subscribers, covering topics like technology, China, the NBA, and more. In the Frequently-Asked Questions section, Ben explains the subscription process for the Stratechery Podcast, including accessing it via RSS by creating a Stratechery Passport account. He clarifies sharing policies, team subscriptions, and switching to an annual plan with a prorated discount. Ben notes that while there isn't a student discount, Stratechery is reasonably priced, offering custom invoices for annual subscribers and gifting subscriptions on the gifts page."
+    },
+    {
+        "title": "Alexa+, A Brief History of Alexa, Amazon \u2014 and Apple's \u2014 Mistake",
+        "public_url": "https://stratechery.com/2025/alexa-a-brief-history-of-alexa-amazon-and-apples-mistake/",
+        "publish_date": "Wed, 05 Mar 2025 13:16:50 +0000",
+        "file_location": "./data/Alexa+, A Brief History of Alexa, Amazon \u2014 and Apple's \u2014 Mistake.md",
+        "summary": "Ben criticizes Amazon's Alexa+ and draws parallels with Apple's past mistakes with Siri, cautioning against overextending and diluting core offerings. He highlights the risk of losing focus and depth in the primary product or service offered. In the Frequently-Asked Questions section, Ben explains how subscribers can add the Stratechery Podcast to their favorite podcast player and access Stratechery via RSS. He clarifies the rules around sharing subscriptions and mentions the availability of team subscriptions. Ben also provides guidance on switching to an annual plan through the account page."
+    },
+    {
+        "title": "More TSMC Fabs in the U.S., Taiwan's Trump Card",
+        "public_url": "https://stratechery.com/2025/more-tsmc-fabs-in-the-u-s-taiwans-trump-card/",
+        "publish_date": "Tue, 04 Mar 2025 14:29:55 +0000",
+        "file_location": "./data/More TSMC Fabs in the U.S., Taiwan's Trump Card.md",
+        "summary": "In \"More TSMC Fabs in the U.S., Taiwan\u2019s Trump Card\" from Stratechery by Ben Thompson, it is pointed out that although TSMC announced new fabs in the U.S., the lack of specific details indicates that Taiwan still maintains a strategic advantage in semiconductor manufacturing. In the \"Frequently-Asked Questions\" section, Ben clarifies that subscribers can easily add the Stratechery Podcast to their favorite podcast player and access Stratechery via RSS by creating a Stratechery Passport account. He also mentions restrictions on sharing subscriptions, details on team subscriptions, upgrading to an annual plan, and pricing accessibility for students."
+    },
+    {
+        "title": "Microsoft EOLs Skype, Skype's Founding, Microsoft's Skype Charity",
+        "public_url": "https://stratechery.com/2025/microsoft-eols-skype-skypes-founding-microsofts-skype-charity/",
+        "publish_date": "Mon, 03 Mar 2025 12:39:22 +0000",
+        "file_location": "./data/Microsoft EOLs Skype, Skype's Founding, Microsoft's Skype Charity.md",
+        "summary": "In the article \"Microsoft EOLs Skype, Skype\u2019s Founding, Microsoft\u2019s Skype Charity \u2013 Stratechery by Ben Thompson,\" Ben Thompson criticizes Microsoft for ending Skype, a service he believes they never should have acquired, expressing sadness over the decision. In the \"Frequently-Asked Questions\" section, Ben explains how users can subscribe to the Stratechery Podcast through the Delivery Preferences page, read Stratechery via RSS by creating a Stratechery Passport account, and mentions the prohibition against sharing a Stratechery Update subscription but allows occasional forwarding. He also notes the availability of team subscriptions and the option to switch to an annual plan for a prorated discount on the account page."
+    },
+    {
         "title": "An Interview with Benedict Evans About AI Unknowns",
         "public_url": "https://stratechery.com/2025/an-interview-with-benedict-evans-about-ai-unknowns/",
         "publish_date": "Thu, 27 Feb 2025 10:43:15 +0000",
