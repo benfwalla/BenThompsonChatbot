@@ -1,5 +1,12 @@
 [
     {
+        "title": "Liberation and Whiplash",
+        "public_url": "https://stratechery.com/2025/liberation-and-whiplash/",
+        "publish_date": "Fri, 11 Apr 2025 14:03:48 +0000",
+        "file_location": "./data/Liberation and Whiplash.md",
+        "summary": "Ben Thompson introduces a new weekly digest feature called \"This Week in Stratechery,\" highlighting key articles and podcasts on pressing tech and trade topics. In the Stratechery Updates section, Ben discusses the potential benefits and risks of Trump's tariffs from a US perspective. The \"Dithering\" episode \"Tariffs and Taiwan\" explores the impact of tariffs on tech companies like Apple and the Taiwan-China relationship. In the \"Apple and China\" episode, Ben and John Gruber dissect Apple's approach to privacy and security in China. The \"Asianometry\" podcast, featuring Jon Yu, delves into Xiaomi's influence on Apple's car strategy and manufacturing intricacies like EUV mirrors. The \"Sharp China\" episode with Andrew Sharp and Bill Bishop examines the escalating US-China tensions and potential scenarios for the relationship. Ben also chats with Andrew Sharp on \"Greatest of All Talk\" about NBA team performances and strategies impacting outcomes. The \"Sharp Tech\" discussion with Andrew Sharp delves into American tech companies' manufacturing challenges in Asia and the implications of monopolies on innovation. Ben underscores the importance of demand in driving tech innovation. Stay informed with the latest insights by subscribing to Stratechery."
+    },
+    {
         "title": "An Interview with Google Cloud Platform CEO Thomas Kurian About Building an Enterprise Culture",
         "public_url": "https://stratechery.com/2025/an-interview-with-google-cloud-platform-ceo-thomas-kurian-about-building-an-enterprise-culture/",
         "publish_date": "Thu, 10 Apr 2025 09:56:12 +0000",
