@@ -1,5 +1,12 @@
 [
     {
+        "title": "Nvidia H20 Restricted in China, The Huawei CloudMatrix 384, Whither Chip Controls",
+        "public_url": "https://stratechery.com/2025/nvidia-h20-restricted-in-china-the-huawei-cloudmatrix-384-whither-chip-controls/",
+        "publish_date": "Wed, 16 Apr 2025 12:35:27 +0000",
+        "file_location": "./data/Nvidia H20 Restricted in China, The Huawei CloudMatrix 384, Whither Chip Controls.md",
+        "summary": "Ben Thompson discusses in his article about Nvidia facing regulatory challenges in China with the H20 chip, resulting in a $5.5 billion charge for restricted exports. The H20 chip's limitations make it unsuitable for U.S. supercomputer threats, signifying the end of Nvidia's AI accelerator sales in China. Meanwhile, Huawei launches the CloudMatrix 384, a powerful AI infrastructure architecture challenging Nvidia's offerings, fueled by China's infrastructure production capabilities. Despite import restrictions affecting Huawei's supply chain, TSMC's involvement raises concerns about violations. Ben presents a nuanced view on chip controls, advocating against them while acknowledging their impact on Huawei's capabilities and U.S. AI competitiveness. The developments underscore China's push for chip self-sufficiency, posing challenges for Nvidia's market dominance and future industry dynamics."
+    },
+    {
         "title": "Meta v. FTC, The Three Facebook Eras, Video Slop and Market Forces",
         "public_url": "https://stratechery.com/2025/meta-v-ftc-the-three-facebook-eras-video-slop-and-market-forces/",
         "publish_date": "Tue, 15 Apr 2025 12:55:18 +0000",
