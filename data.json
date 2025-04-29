@@ -1,5 +1,12 @@
 [
     {
+        "title": "Intel Earnings, TSMC Earnings",
+        "public_url": "https://stratechery.com/2025/intel-earnings-tsmc-earnings/",
+        "publish_date": "Tue, 29 Apr 2025 09:59:14 +0000",
+        "file_location": "./data/Intel Earnings, TSMC Earnings.md",
+        "summary": "Ben Thompson discussed the recent earnings reports of Intel and TSMC in his article. He highlighted Intel's impressive results and TSMC's technological leadership, benefiting from the ongoing chip shortage. Ben emphasized Intel's future strategy, including Foundry Services, as crucial for its growth and relevance in the semiconductor industry, while underscoring TSMC's dominance and the importance of their technology and scale advantage in the market. In the Frequently-Asked Questions section, Ben explained how to subscribe to the Stratechery Podcast and access Stratechery via RSS. He clarified that subscriptions are for individual use only and mentioned team subscriptions and the option to switch to an annual plan for a prorated discount. Ben also noted the deliberate affordability of Stratechery subscriptions, absence of student discounts, and plans for offering custom invoices to annual subscribers in the future."
+    },
+    {
         "title": "Google Earnings, Search and AI, Building AI Products",
         "public_url": "https://stratechery.com/2025/google-earnings-search-and-ai-building-ai-products/",
         "publish_date": "Mon, 28 Apr 2025 10:30:59 +0000",
