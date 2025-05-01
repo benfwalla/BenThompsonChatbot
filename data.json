@@ -1,5 +1,12 @@
 [
     {
+        "title": "An Interview with Meta CEO Mark Zuckerberg About AI and the Evolution of Social Media",
+        "public_url": "https://stratechery.com/2025/an-interview-with-meta-ceo-mark-zuckerberg-about-ai-and-the-evolution-of-social-media/",
+        "publish_date": "Thu, 01 May 2025 09:54:26 +0000",
+        "file_location": "./data/An Interview with Meta CEO Mark Zuckerberg About AI and the Evolution of Social Media.md",
+        "summary": "Ben Thompson interviews Meta CEO Mark Zuckerberg about AI and the evolution of social media. They discuss Meta's platform ambitions, the Llama API, and the balance between GPU opportunity cost and training costs. Zuckerberg emphasizes the importance of video in social media's future, the shift to the metaverse, and Meta's focus on AI to personalize user experiences. From the history of F8 conferences to the new LlamaCon developer event, Zuckerberg highlights the importance of adapting to change and promoting open platforms. The release of the Llama API aims to simplify open-source usage, while Meta's open-source strategy focuses on enhancing its ad business and business messaging opportunities. The evolution of social networking into content-focused discovery engines is examined, with Zuckerberg noting the importance of messaging for nuanced social interactions. They delve into Meta AI's potential in business messaging, recommending products, and enhancing subscription revenue. The Meta AI app's vision as a personalized assistant for social interactions is discussed, alongside challenges in market positioning and integration with existing platforms. The impact of tariffs on Meta's business, their focus on developing AR glasses, and the potential of AR and VR in the future market are explored, with Zuckerberg envisioning glasses as future \"phones\" and VR as the future \"TV.\""
+    },
+    {
         "title": "Amazon, Trump, and Tariff Costs; Amazon Haul and Temu; Political Lessons",
         "public_url": "https://stratechery.com/2025/amazon-trump-and-tariff-costs-amazon-haul-and-temu-political-lessons/",
         "publish_date": "Wed, 30 Apr 2025 12:42:08 +0000",
