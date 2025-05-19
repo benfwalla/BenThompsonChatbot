@@ -1,5 +1,12 @@
 [
     {
+        "title": "An Interview with Nvidia CEO Jensen Huang About Chip Controls, AI Factories, and Enterprise Pragmatism",
+        "public_url": "https://stratechery.com/2025/an-interview-with-nvidia-ceo-jensen-huang-about-chip-controls-ai-factories-and-enterprise-pragmatism/",
+        "publish_date": "Mon, 19 May 2025 12:58:57 +0000",
+        "file_location": "./data/An Interview with Nvidia CEO Jensen Huang About Chip Controls, AI Factories, and Enterprise Pragmatism.md",
+        "summary": "In an article titled \"An Interview with Nvidia CEO Jensen Huang About Chip Controls, AI Factories, and Enterprise Pragmatism\" by Ben Thompson, the interview with Jensen Huang covers a wide range of topics. They discuss Nvidia's control over the supply chain through acquiring Arm, highlighting the company's leadership in AI and its impact on various industries. There's also mention of Nvidia's pragmatic approach to enterprise solutions and client-centric product development. In \"Arab AI and the Chip Diffusion Rule,\" Ben explores Jensen Huang's views on the company's involvement in the AI industry, focusing on solving complex industry problems and building a global AI technology platform. The section \"Nvidia and China\" delves into Huang's strategic insights on competing in China to shape policies effectively and prevent missing out on progress. \"AI GDP Growth\" discusses how Huang anticipated AI's role in boosting the GDP and job creation through increased productivity. The \"Dynamo and Full-Stack Nvidia\" section captures Jensen Huang's keynote on data center energy optimization and the development of the Dynamo ecosystem. \"Enterprise AI and Pragmatism\" emphasizes Nvidia's commitment to performance-per-watt and flexible integration to meet customer preferences. Finally, in \"Whither Gaming,\" Huang underscores the importance of GeForce beyond gaming, touching on complex driver development and Nvidia's open-source approach."
+    },
+    {
         "title": "Airbnb's New App, Experiences and Services, Chesky's Founder Mode",
         "public_url": "https://stratechery.com/2025/airbnbs-new-app-experiences-and-services-cheskys-founder-mode/",
         "publish_date": "Wed, 14 May 2025 12:26:44 +0000",
