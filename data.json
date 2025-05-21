@@ -1,5 +1,19 @@
 [
     {
+        "title": "Google I/O, The Search Funnel, Product Possibilities",
+        "public_url": "https://stratechery.com/2025/google-i-o-the-search-funnel-product-possibilities/",
+        "publish_date": "Wed, 21 May 2025 14:25:47 +0000",
+        "file_location": "./data/Google I/O, The Search Funnel, Product Possibilities.md",
+        "summary": "Ben Thompson from Stratechery found Google I/O overwhelming but impressive, with Search being the standout product. The article also promotes the subscription-based offering, Stratechery Plus, providing access to exclusive content like the Stratechery Update and podcasts such as Sharp Tech and Sharp China. Ben answers Frequently-Asked Questions regarding adding the Stratechery Podcast to favorite players, reading via RSS with a Stratechery Passport account, and clarifies sharing subscription content against Terms of Service. Team subscriptions are available, and individuals can switch to an annual plan. Stratechery keeps prices low for accessibility, including to students, and can provide custom invoices upon request after subscribing or upgrading to an annual plan."
+    },
+    {
+        "title": "The Agentic Web and Original Sin",
+        "public_url": "https://stratechery.com/2025/the-agentic-web-and-original-sin/",
+        "publish_date": "Tue, 20 May 2025 14:48:00 +0000",
+        "file_location": "./data/The Agentic Web and Original Sin.md",
+        "summary": "Ben Thompson, in his article \"The Agentic Web and Original Sin \u2013 Stratechery,\" counters Marc Andreessen's idea of integrating payments directly into browsers as a better alternative to advertising for monetizing digital content, citing the success of subscription models in providing ongoing, well-defined value to users. He predicts a continued growth in subscription-based approaches, especially with the emergence of AI-driven content in a digitally abundant era. Ben also delves into the decline of the ad-supported web, attributing it to bad incentives and unsustainable economics, as well as Google's influence in directing users to monetized sites. He expresses concerns about the future of ad-supported content sites amidst shifting user behaviors and the rise of walled gardens and advanced AI technologies. Ben further explores Microsoft's concept of an Open Agentic Web and the importance of agents being able to act on users' behalf, highlighting the need for clear revenue streams to incentivize websites to adapt to this model effectively. He also discusses the potential of stablecoins in addressing micro-transaction challenges, envisioning a new marketplace driven by stablecoin payments, AI-driven auctions, and incentivized high-quality content creation for a mutually beneficial ecosystem involving content producers, AI, and consumers."
+    },
+    {
         "title": "An Interview with Nvidia CEO Jensen Huang About Chip Controls, AI Factories, and Enterprise Pragmatism",
         "public_url": "https://stratechery.com/2025/an-interview-with-nvidia-ceo-jensen-huang-about-chip-controls-ai-factories-and-enterprise-pragmatism/",
         "publish_date": "Mon, 19 May 2025 12:58:57 +0000",
