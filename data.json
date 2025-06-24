@@ -1,5 +1,61 @@
 [
     {
+        "title": "Talent Wars, NBA Money, AI Money",
+        "public_url": "https://stratechery.com/2025/talent-wars-nba-money-ai-money/",
+        "publish_date": "Tue, 24 Jun 2025 14:01:32 +0000",
+        "file_location": "./data/Talent Wars, NBA Money, AI Money.md",
+        "summary": "Ben Thompson discusses the escalating Talent Wars in the tech industry, where top AI talents are now commanding salaries comparable to NBA players, hinting that they may still be undervalued. He highlights the significant implications of these developments in the talent market. In the Frequently-Asked Questions section, Ben explains how subscribers can add Stratechery Podcasts to their favorite podcast player and read via RSS by creating a Stratechery Passport account. It is mentioned that sharing subscriptions or RSS feeds is against the Terms of Service, but team subscriptions and switching to an annual plan with a prorated discount are possible. Stratechery is intentionally priced affordably for everyone, including students, with custom invoices available for annual subscribers upon request. Gift subscriptions can be conveniently sent through the gifts page."
+    },
+    {
+        "title": "Checking In on AI and the Big Five",
+        "public_url": "https://stratechery.com/2025/checking-in-on-ai-and-the-big-five/",
+        "publish_date": "Mon, 23 Jun 2025 15:25:43 +0000",
+        "file_location": "./data/Checking In on AI and the Big Five.md",
+        "summary": "In Ben Thompson's January 2023 article \"Checking In on AI and the Big Five \u2013 Stratechery,\" he delves into the evolving landscape of artificial intelligence and its implications for major tech players. Apple's AI infrastructure is described as minimal, with a more sustaining than disruptive approach recommended, suggesting potential areas for expansion beyond phones. Google stands out for its strong infrastructure and model capabilities, notably Gemini, yet faces challenges due to heavy reliance on internal TPUs. Meta, akin to Apple, is advised to enhance its AI capabilities for personalized content and ads amidst growing competition. Microsoft's AI strategy, anchored by Azure and partnerships like OpenAI, requires continued evolution to sustain its competitive edge. Amazon's optimistic outlook stems from AI benefiting its diverse businesses, with a particular focus on AWS and strategic investments in AI chips. Model makers like OpenAI, Anthropic, and xAI face unique challenges and opportunities, with Meta's AI investments and uncertainties posing potential risks. Ben's nuanced analysis prompts reflection on the transformative potential of AI while cautioning against extreme views on its impact."
+    },
+    {
+        "title": "xAI Raising Money, xAI and Oracle, Xbox = Windows",
+        "public_url": "https://stratechery.com/2025/xai-raising-money-xai-and-oracle-xbox-windows/",
+        "publish_date": "Wed, 18 Jun 2025 14:37:51 +0000",
+        "file_location": "./data/xAI Raising Money, xAI and Oracle, Xbox = Windows.md",
+        "summary": "Ben Thompson discusses the gap in the adoption of xAI despite the desire for it, as well as the transformation of Xbox into a version of Windows. He also promotes a Stratechery Plus subscription, highlighting exclusive content like the daily Stratechery Update, Stratechery Interviews, and podcasts such as Dithering, Sharp Tech, Sharp China, and Greatest of All Talk. Subscription details and renewal information are provided at the end of the article. In the Frequently-Asked Questions section, Ben addresses adding the Stratechery Podcast to podcast players, reading Stratechery via RSS, sharing restrictions, team subscriptions, annual plan options, and gift subscriptions."
+    },
+    {
+        "title": "Microsoft-OpenAI Drama Continues, WhatsApp Ads, Channel Subscriptions and the Creator Perspective",
+        "public_url": "https://stratechery.com/2025/microsoft-openai-drama-continues-whatsapp-ads-channel-subscriptions-and-the-creator-perspective/",
+        "publish_date": "Tue, 17 Jun 2025 13:27:02 +0000",
+        "file_location": "./data/Microsoft-OpenAI Drama Continues, WhatsApp Ads, Channel Subscriptions and the Creator Perspective.md",
+        "summary": "Ben Thompson delves into the ongoing Microsoft-OpenAI drama, WhatsApp's new ads and subscriptions, and the creator perspective. He highlights the exclusive content available through a Stratechery Plus subscription, including podcasts like Dithering, Sharp Tech, Sharp China, and Greatest Of All Talk. Ben elaborates on the podcast formats and topics covered in Sharp Tech and Sharp China. In the Frequently-Asked Questions section, he explains how to subscribe to the Stratechery Podcast and clarifies sharing restrictions. Ben also provides details on team subscriptions, annual plan discounts, student accessibility, custom invoices, and gifting options."
+    },
+    {
+        "title": "WBD Split, HBO and Warner, Whither Sports?",
+        "public_url": "https://stratechery.com/2025/wbd-split-hbo-and-warner-whither-sports/",
+        "publish_date": "Mon, 16 Jun 2025 14:41:19 +0000",
+        "file_location": "./data/WBD Split, HBO and Warner, Whither Sports?.md",
+        "summary": "Ben discusses the split of WarnerBros. Discovery, originating from Turner Broadcasting, in the WBD Split section. He mentions subscribing to Stratechery Plus for access to exclusive content like the Stratechery Update, Stratechery Interviews, and various podcasts. The Stratechery Update offers in-depth analysis of daily news through three weekly emails or podcasts, while Stratechery Interviews feature conversations with industry leaders. The Frequently-Asked Questions section addresses how to subscribe to the Stratechery Podcast and access it through a preferred player, as well as reading via RSS with a Stratechery Passport account. Ben explains that subscriptions are for individual use only, though occasional forwarding is allowed, and annual plan upgrades can be done on the account page with a prorated discount. While there is no student discount, the pricing is kept affordable for all, including students, and gift subscriptions are available. Ben also touches on the potential addition of native custom invoice support for Passport subscriptions in the future."
+    },
+    {
+        "title": "An Interview with \"Apple in China\" Author Patrick McGee",
+        "public_url": "https://stratechery.com/2025/an-interview-with-apple-in-china-author-patrick-mcgee/",
+        "publish_date": "Thu, 12 Jun 2025 09:54:34 +0000",
+        "file_location": "./data/An Interview with \"Apple in China\" Author Patrick McGee.md",
+        "summary": "Ben discusses how Apple shifted its manufacturing to outsourcing, a change that led to a significant power shift within its supply chain. Patrick McGee explores Apple's evolution in the context of its reliance on external manufacturers, showcasing the company's shift from being in a dominant position to being more reliant and interconnected with its suppliers. In the Frequently-Asked Questions section, Ben explains how to subscribe to the Stratechery Podcast, directing listeners to visit their Delivery Preferences after subscribing for easy instructions on adding the podcast to their favorite player. He clarifies that Stratechery can be read via RSS and mentions the prohibition of sharing accounts due to Terms of Service violations. Ben also notes the availability of team subscriptions, annual plan switches, student discounts, and the option to create custom invoices for annual subscribers. Additionally, gifting a Stratechery subscription can be done by visiting the designated gifts page."
+    },
+    {
+        "title": "Meta + Scale AI?, Meta's Reset, AI as Sustaining Innovation",
+        "public_url": "https://stratechery.com/2025/meta-scale-ai-metas-reset-ai-as-sustaining-innovation/",
+        "publish_date": "Wed, 11 Jun 2025 14:02:14 +0000",
+        "file_location": "./data/Meta + Scale AI?, Meta's Reset, AI as Sustaining Innovation.md",
+        "summary": "In the analysis by Ben Thompson on Stratechery, he discusses Meta's reported acquisition of 49% of Scale AI and the appointment of CEO Alexandr Wang, suggesting that the deal is more aimed at addressing Meta's Llama issues rather than focusing solely on Scale AI. Moving on to the Frequently-Asked Questions section, Ben clarifies that to subscribe to the Stratechery Podcast, one must visit the Delivery Preferences page post-subscription for instructions. He also mentions that sharing subscriptions is not allowed, but teams can purchase them, and individuals can switch to an annual plan at a discounted rate. Stratechery aims to be affordable for all users, including students, and custom invoices are available upon request for annual subscribers."
+    },
+    {
+        "title": "Apple Retreats",
+        "public_url": "https://stratechery.com/2025/apple-retreats/",
+        "publish_date": "Tue, 10 Jun 2025 14:01:39 +0000",
+        "file_location": "./data/Apple Retreats.md",
+        "summary": "In \"Apple Retreats,\" Ben Thompson discusses Apple's acknowledgment of last year's mistakes at WWDC regarding unfulfilled AI promises for Siri, and how the company is now retracting from overpromising, as seen in their decision to decline an invite for a podcast with John Gruber. Marco Arment suggests Apple may be avoiding unscripted interviews to manage PR challenges, indicating an overall retreat to safety. Despite criticism, Ben suggests that Apple's withdrawal could be a strategic move. In \"Apple\u2019s Retreat to Its Core Competency,\" Ben highlights Apple's emphasis on design, like the Liquid Glass introduction, showcasing the company's strength in creating unified hardware and software experiences. He mentions how Apple's focus on device integration and Continuity features sets them apart from competitors, underscoring the positive impact of concentrating on core competencies over venturing into AI. \"Apple\u2019s Retreat to Empowering Developers and Partners\" explores Apple's pivot towards supporting app developers with frameworks like the Foundation Models and collaborating with OpenAI. By integrating ChatGPT deeply into Xcode, Apple is embracing a strategy of working with foundational model creators rather than handling AI entirely in-house, a move crucial for future success. \"Apple\u2019s \\[Forced\\] Retreat to App Store Sanity\" suggests Apple may divide the App Store, focusing on gaming with a 70/30 revenue split, while considering a more favorable split for non-gaming apps. Legal battles and regulatory pressures, like the Ninth Circuit Court ruling and the EU's DMA, could challenge Apple's control and integration practices, impacting its unique market position. In \"Retreat and Reset,\" Ben draws parallels between Apple's Liquid Glass and Microsoft's past strategic adjustments following Windows 8's missteps, highlighting Apple's renewed focus on developer empowerment and partner collaborations at WWDC. Although Apple may have missed the AI trend, their retreat towards sustainable strategies could be a positive move forward, indicative of a strategic reset."
+    },
+    {
         "title": "Vibe Coding, Windsurf and Anthropic, ChatGPT Connectors",
         "public_url": "https://stratechery.com/2025/vibe-coding-windsurf-and-anthropic-chatgpt-connectors/",
         "publish_date": "Mon, 09 Jun 2025 10:44:58 +0000",
