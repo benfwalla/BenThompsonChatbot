@@ -1,5 +1,19 @@
 [
     {
+        "title": "Apple + Anthropic?, Apple's Fall, Apple's Options",
+        "public_url": "https://stratechery.com/2025/apple-anthropic-apples-fall-apples-options/",
+        "publish_date": "Wed, 09 Jul 2025 10:22:39 +0000",
+        "file_location": "./data/Apple + Anthropic?, Apple's Fall, Apple's Options.md",
+        "summary": "In the article \"Apple + Anthropic?\" by Ben Thompson, he discusses Apple's potential partnership with foundation model providers to replace Siri, highlighting the significant impact this decision could have for the company. In the \"Frequently-Asked Questions\" section, Ben explains how to access Stratechery Podcasts and the website through various channels, clarifies subscription sharing rules, mentions options for team subscriptions and annual plans, addresses affordability for students, and discusses custom invoices for annual subscribers, potential native support for custom invoices, and the option to gift a subscription."
+    },
+    {
+        "title": "Tech Philosophy and AI Opportunity",
+        "public_url": "https://stratechery.com/2025/tech-philosophy-and-ai-opportunity/",
+        "publish_date": "Tue, 08 Jul 2025 15:06:51 +0000",
+        "file_location": "./data/Tech Philosophy and AI Opportunity.md",
+        "summary": "In the article \"Tech Philosophy and AI Opportunity\" on Stratechery by Ben Thompson, there is a discussion on the paradox of AI leading to scarcity-driven financial outcomes, evident in the skyrocketing valuation of Nvidia. The scarcity of AI talent is also highlighted, with high financial rewards attracting individuals due to measurable outputs and universal work requirements. This shift towards individual importance in the AI space contrasts with historical tech norms where companies held more significance. Apple's struggle in retaining AI talent is noted, with their conservative approach to AI investment impacting their pace in AI model training. The tech industry's two philosophies are examined, with Google and Facebook focusing on aiding users in getting things done, while Apple and Microsoft prioritize aiding users in doing work better and more efficiently. The sustaining versus disruptive innovation concept is explored through Meta Platforms and Google's AI approaches. Microsoft's investment in OpenAI and the development of AI products like Copilot align with their philosophy of empowering employees through tools. Anthropic's focus on agentic workloads to replace human tasks showcases a vision of enhancing business results through advanced technology. The article underscores the evolving strategies and blurred boundaries among AI players in the constantly changing AI landscape."
+    },
+    {
         "title": "Training AI is Not Fair Use?, LLMs and Scale, Pushing on a String",
         "public_url": "https://stratechery.com/2025/training-ai-is-not-fair-use-llms-and-scale-pushing-on-a-string/",
         "publish_date": "Mon, 07 Jul 2025 12:10:43 +0000",
