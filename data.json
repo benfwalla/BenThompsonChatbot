@@ -1,5 +1,12 @@
 [
     {
+        "title": "Content and Community",
+        "public_url": "https://stratechery.com/2025/content-and-community/",
+        "publish_date": "Mon, 21 Jul 2025 12:10:03 +0000",
+        "file_location": "./data/Content and Community.md",
+        "summary": "Ben Thompson discusses the evolution of the content industry in his article on Stratechery, highlighting its significance to the publication's business model and its broader implications. He reflects on the historical progression from the invention of the printing press to the current impact of AI on content creation. Ben delves into AI's role in content commoditization, noting its ability to rapidly generate substance and predicting the imminent eradication of bottlenecks in idea substantiation. He analyzes the legal implications of AI-generated content and its transformative nature in copyright cases. Ben explores publishing's three eras and the shift in power dynamics brought by the Internet era. He also evaluates Cloudflare's proposition for a marketplace that connects content creators with AI companies and the potential for a new equilibrium in the AI content market. Ben concludes by emphasizing the importance of building content-based communities and fostering direct reader connections to maximize revenue and combat AI-driven changes in search behavior."
+    },
+    {
         "title": "Cloudflare's Content Independence Day, Google's Advantage, Monetizing AI",
         "public_url": "https://stratechery.com/2025/cloudflares-content-independence-day-googles-advantage-monetizing-ai/",
         "publish_date": "Wed, 16 Jul 2025 13:31:13 +0000",
