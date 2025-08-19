@@ -1,5 +1,19 @@
 [
     {
+        "title": "A Personal Update and Vacation Break",
+        "public_url": "https://stratechery.com/2025/a-personal-update-and-vacation-break/",
+        "publish_date": "Tue, 19 Aug 2025 09:00:00 +0000",
+        "file_location": "./data/A Personal Update and Vacation Break.md",
+        "summary": "In an article on Stratechery, Ben Thompson provides a personal update, sharing his recent move back to the U.S. from Taiwan for family reasons rather than security concerns. He hints at upcoming changes for Stratechery, including a possible new posting schedule and increased focus on video content. Ben also announces a vacation break to recuperate from the move and the tech industry's August slowdown, promising a return to regular updates soon and thanking readers for their understanding and support."
+    },
+    {
+        "title": "Facebook is Dead; Long Live Meta",
+        "public_url": "https://stratechery.com/2025/meta-earnings-meta-turns-the-dial-social-network-r-i-p/",
+        "publish_date": "Thu, 14 Aug 2025 14:34:02 +0000",
+        "file_location": "./data/Facebook is Dead; Long Live Meta.md",
+        "summary": "In \"Facebook is Dead; Long Live Meta\" from Stratechery by Ben Thompson, the article delves into Meta's recent positive second-quarter earnings report, showcasing a 22% revenue growth and robust ad business performance amid AI investments that led to an 11% increase in share value. Lessons Learned discusses Meta's shift towards emphasizing current financial performance over future bets, marking a departure from traditional tech company strategies. AI That Matters highlights Meta's successful quarter, crediting AI for efficiency gains in the ads system while cautioning against solely attributing results to AI advancements. Reels and Dials examines Meta's manipulation of impression and price-per-ad growth rates through product additions and ad load optimizations. Social Network R.I.P. addresses Meta's transition towards delivering superintelligence to individuals, moving away from its social network roots and potentially justifying investor confidence in the company's new direction."
+    },
+    {
         "title": "ChatGPT 5, Product Trade-Offs, Personality and Model Upgrades",
         "public_url": "https://stratechery.com/2025/chatgpt-5-product-trade-offs-personality-and-model-upgrades/",
         "publish_date": "Wed, 13 Aug 2025 11:07:59 +0000",
