@@ -1,5 +1,12 @@
 [
     {
+        "title": "U.S. Intel",
+        "public_url": "https://stratechery.com/2025/u-s-intel/",
+        "publish_date": "Tue, 26 Aug 2025 10:00:00 +0000",
+        "file_location": "./data/U.S. Intel.md",
+        "summary": "Ben Thompson, known as BT, delves into the concept of \"steelmanning\" in his article on U.S. Intel for Stratechery. He contrasts it with straw man arguments and applies it to the debate surrounding the U.S. government acquiring an equity stake in Intel, referencing Scott Lincicome's critiques regarding political interference and market distortions. Despite valid concerns raised by critics, BT notes the unique nature of the semiconductor industry, especially its critical role in national security. In the section \"The Geopolitical Case,\" BT explores the geopolitical ramifications of chip manufacturing locations and the risks associated with Taiwan's importance in the chip supply chain. BT emphasizes the need for long-term decisions in the semiconductor industry in \"Decisions Over Decades,\" discussing Intel's historical choices and the significance of becoming a foundry to remain competitive. In \"Competing with TSMC,\" BT addresses Intel's challenges in rivaling the established reputation of TSMC, underscoring the difficulty in attracting customers away from the industry giant. BT raises concerns about Intel's credibility in \"Intel\u2019s Credibility Problem,\" highlighting the importance of U.S. interests in maintaining Intel Foundry. Finally, in \"Steelmanning,\" BT acknowledges the obstacles to Intel's revival but stresses the necessity of ensuring the viability of Intel Foundry for national security reasons amidst concerns about reliance on foreign semiconductor companies."
+    },
+    {
         "title": "A Personal Update and Vacation Break",
         "public_url": "https://stratechery.com/2025/a-personal-update-and-vacation-break/",
         "publish_date": "Tue, 19 Aug 2025 09:00:00 +0000",
