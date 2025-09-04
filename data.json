@@ -1,5 +1,12 @@
 [
     {
+        "title": "An Interview with Cloudflare Founder and CEO Matthew Prince About Internet History and Pay-per-crawl",
+        "public_url": "https://stratechery.com/2025/an-interview-with-cloudflare-founder-and-ceo-matthew-prince-about-internet-history-and-pay-per-crawl/",
+        "publish_date": "Thu, 04 Sep 2025 10:00:00 +0000",
+        "file_location": "./data/An Interview with Cloudflare Founder and CEO Matthew Prince About Internet History and Pay-per-crawl.md",
+        "summary": "Ben Thompson interviews Cloudflare CEO Matthew Prince about internet history and the evolution of the pay-per-crawl model. They discuss Prince's background, from his tech-savvy upbringing to founding Cloudflare during his MBA at HBS. The conversation covers Cloudflare's origins, disruptive business model, and symbiotic relationship with online criminals. They explore Cloudflare's growth into various products and innovative approaches, emphasizing efficiency and practical solutions. Cloudflare's niche as a fourth cloud provider focusing on network administration is highlighted, along with its relevance in enabling multi-cloud environments and supporting AI and big data movements. The evolution of the Internet interface towards answer engines and the need for a new content monetization model due to changing web dynamics are also discussed. Cloudflare's aggressive stance on blocking bots and creating new protocols is explained as a response to customer requests and a mission to enhance the internet. Concerns about Google's impact on the publishing industry and potential payment schemes prioritizing fair compensation for content creators are examined. The conversation delves into Cloudflare's role in content moderation, avoiding content quality decisions, and enabling AI companies to rank content based on algorithms. Prince emphasizes the importance of trustworthiness in AI development and the value of diverse perspectives in transformative systems."
+    },
+    {
         "title": "Google Remedy Decision, Reasonable Remedies, The Google Patronage Network",
         "public_url": "https://stratechery.com/2025/google-remedy-decision-reasonable-remedies-the-google-patronage-network/",
         "publish_date": "Wed, 03 Sep 2025 10:02:18 +0000",
