@@ -1,5 +1,12 @@
 [
     {
+        "title": "Sora the App, Sonnet 4.5 and the Question of Models as Processors",
+        "public_url": "https://stratechery.com/2025/sora-the-app-sonnet-4-5-and-the-question-of-models-as-processors/",
+        "publish_date": "Wed, 01 Oct 2025 10:00:00 +0000",
+        "file_location": "./data/Sora the App, Sonnet 4.5 and the Question of Models as Processors.md",
+        "summary": "Ben discusses OpenAI's AI video app Sora, powered by Sora 2, questioning its long-term appeal. He mentions Cognition's challenges with incorporating a new Anthropic model, indicating that integrating new models is more complex than introducing a new processor. In Frequently-Asked Questions, Ben clarifies inquiries related to subscribing to the Stratechery Podcast and reading content via RSS. He mentions subscriptions for individual use, occasional forwarding of updates, purchasing team subscriptions, switching to annual plans, student discounts, creating custom invoices, and gifting subscriptions. Ben also notes upcoming native support for custom invoices within Passport."
+    },
+    {
         "title": "OpenAI Instant Checkout, AI and Long Tail E-Commerce, Is AI Different?",
         "public_url": "https://stratechery.com/2025/openai-instant-checkout-ai-and-long-tail-e-commerce-is-ai-different/",
         "publish_date": "Tue, 30 Sep 2025 10:00:00 +0000",
