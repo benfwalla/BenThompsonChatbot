@@ -1,5 +1,12 @@
 [
     {
+        "title": "An Interview with Ben Bajarin About AI Infrastructure",
+        "public_url": "https://stratechery.com/2025/an-interview-with-ben-bajarin-about-ai-infrastructure/",
+        "publish_date": "Thu, 02 Oct 2025 10:00:00 +0000",
+        "file_location": "./data/An Interview with Ben Bajarin About AI Infrastructure.md",
+        "summary": "In an article on Stratechery by Ben Thompson, an Interview with Ben Bajarin About AI Infrastructure discusses the critical role of AI infrastructure, highlighting Nvidia and Intel as key players in powering machine learning and AI applications. The significance of Stratechery Plus, offering exclusive content like the Stratechery Update, Stratechery Interviews, Dithering, and Sharp Tech podcasts, is emphasized. The Stratechery Update provides detailed analysis through three weekly emails or podcasts, while the Stratechery Interviews feature discussions with industry leaders. The FAQ section clarifies subscribing to the Stratechery Podcast, accessing content via RSS, subscription sharing policies, and available subscription options like team subscriptions and annual plans, with no student discounts. Custom invoices are available upon request after subscribing or upgrading to an annual plan."
+    },
+    {
         "title": "Sora the App, Sonnet 4.5 and the Question of Models as Processors",
         "public_url": "https://stratechery.com/2025/sora-the-app-sonnet-4-5-and-the-question-of-models-as-processors/",
         "publish_date": "Wed, 01 Oct 2025 10:00:00 +0000",
