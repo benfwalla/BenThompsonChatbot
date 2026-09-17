@@ -1,5 +1,355 @@
 [
     {
+        "title": "An Interview with Joanna Stern About the iPhone Duo and AI for Normal People",
+        "public_url": "https://stratechery.com/2026/an-interview-with-joanna-stern-about-the-iphone-duo-and-ai-for-normal-people/",
+        "publish_date": "Thu, 17 Sep 2026 10:00:00 +0000",
+        "file_location": "./data/An Interview with Joanna Stern About the iPhone Duo and AI for Normal People.md",
+        "summary": "Ben Thompson interviewed Joanna Stern about the iPhone Duo and AI for normal people. They discussed the challenges and benefits of using AI in everyday life, highlighting how technology can simplify tasks for users. Stern shared her experience with the iPhone Duo and emphasized the importance of accessibility and privacy concerns related to AI technology for regular consumers. In the Frequently-Asked Questions section, Ben explained how to subscribe to the Stratechery Podcast, create a Stratechery Passport account, share subscriptions, switch to annual plans, arrange custom invoices, and gift subscriptions. He also mentioned the possibility of native support for custom invoices in Passport in the future."
+    },
+    {
+        "title": "Salesforce AI Force, Agents as UI, The Race to Headless",
+        "public_url": "https://stratechery.com/2026/salesforce-ai-force-agents-as-ui-the-race-to-headless/",
+        "publish_date": "Wed, 16 Sep 2026 10:18:04 +0000",
+        "file_location": "./data/Salesforce AI Force, Agents as UI, The Race to Headless.md",
+        "summary": "In \"Salesforce AI Force,\" Ben highlights Salesforce's strategic shift away from using UI as a competitive advantage, noting the industry-wide obsolescence of this approach. Moving on to \"Agents as UI,\" he discusses the trend towards agent-driven user interfaces. In \"The Race to Headless,\" Ben explores the competition among companies to adopt a headless approach in response to changing market dynamics. The \"Frequently-Asked Questions\" section addresses common queries about Stratechery subscriptions, such as accessing the podcast, reading via RSS, gifting subscriptions, team subscriptions, annual plans, custom invoices, and student discounts. Ben also speculates on the potential addition of native support for annual subscriptions in the future."
+    },
+    {
+        "title": "OpenAI Ads, Amazon Ads in ChatGPT, Walmart to Accept Apple Pay",
+        "public_url": "https://stratechery.com/2026/openai-ads-amazon-ads-in-chatgpt-walmart-to-accept-apple-pay/",
+        "publish_date": "Tue, 15 Sep 2026 10:00:00 +0000",
+        "file_location": "./data/OpenAI Ads, Amazon Ads in ChatGPT, Walmart to Accept Apple Pay.md",
+        "summary": "Ben discusses how ChatGPT ads have been effective in addressing Amazon's chatbot issues, while explaining OpenAI's ads. He also highlights Walmart's decision to accept Apple Pay, emphasizing the challenges of resisting prevailing trends. In the Frequently-Asked Questions segment, Ben addresses various questions about Stratechery subscriptions. He explains the process for subscribing to the podcast and reading via RSS, mentions individual vs. team subscriptions, switching to an annual plan, and the availability of custom invoices for annual subscribers. Ben also discusses the option for students to subscribe at a deliberately low price and mentions the ability to gift subscriptions through the dedicated gifts page."
+    },
+    {
+        "title": "Pacing the Frontier, AI\u2019s Digital Limits, AI Commissars",
+        "public_url": "https://stratechery.com/2026/pacing-the-frontier-ais-digital-limits-ai-commissars/",
+        "publish_date": "Mon, 14 Sep 2026 10:00:00 +0000",
+        "file_location": "./data/Pacing the Frontier, AI\u2019s Digital Limits, AI Commissars.md",
+        "summary": "In Pacing the Frontier, Ben critiques Dario Amodei's proposal as unrealistic and potentially serving political control over AI, rather than truly advancing the frontier of the technology. Moving on to Frequently-Asked Questions, Ben explains how to subscribe to the Stratechery Podcast and access via RSS with a Stratechery Passport account. He clarifies subscription sharing rules, team subscriptions, annual plan discounts, student accessibility, custom invoices for annual subscribers, and the future addition of native support for custom invoices to Passport. Ben also mentions the option to give a subscription as a gift through the gifts page."
+    },
+    {
+        "title": "The iPhone Duo, The Intelligent Personal Hub, Apple Watch Audio Intelligence",
+        "public_url": "https://stratechery.com/?p=19953",
+        "publish_date": "Thu, 10 Sep 2026 10:00:00 +0000",
+        "file_location": "./data/The iPhone Duo, The Intelligent Personal Hub, Apple Watch Audio Intelligence.md",
+        "summary": "In the Stratechery article \"The iPhone Duo, The Intelligent Personal Hub, Apple Watch Audio Intelligence,\" Ben Thompson discusses Apple's exceptional integration of hardware and software, highlighting their potential blindspot in prioritizing apps. In the \"Frequently-Asked Questions\" section, Ben explains how to access the Stratechery podcast, subscribe to it, read via RSS, and the content accessibility for free accounts versus subscribers. He mentions the non-shareable nature of subscriptions, purchasing team subscriptions, switching to an annual plan, and availability of student discounts. Ben also touches on creating custom invoices for annual subscribers, the potential addition of native support for custom invoices in Passport, and gifting subscriptions to others."
+    },
+    {
+        "title": "OpenAI Does Math, Reward-Hacking, Meta Launches Personal Agent",
+        "public_url": "https://stratechery.com/?p=19929",
+        "publish_date": "Wed, 09 Sep 2026 10:00:00 +0000",
+        "file_location": "./data/OpenAI Does Math, Reward-Hacking, Meta Launches Personal Agent.md",
+        "summary": "In the article \"OpenAI Does Math, Reward-Hacking, Meta Launches Personal Agent \u2013 Stratechery by Ben Thompson,\" Ben discusses OpenAI's accomplishment in solving a famous math problem, pointing out its impressive nature while questioning its widespread impact. On the other hand, Ben believes that Meta's Muse agent launch has the potential to significantly affect people's lives. In the \"Frequently-Asked Questions\" section, Ben explains how to subscribe to the Stratechery Podcast, read via RSS, share subscriptions, purchase team subscriptions, switch to an annual plan with a discount, request custom invoices, and gift subscriptions."
+    },
+    {
+        "title": "Write Things Down",
+        "public_url": "https://stratechery.com/?p=19915",
+        "publish_date": "Tue, 08 Sep 2026 10:00:00 +0000",
+        "file_location": "./data/Write Things Down.md",
+        "summary": "In \"Write Things Down,\" Ben Thompson discusses his journey in implementing David Allen's _Getting Things Done_ methodology, initially struggling before hiring an assistant to manage his tasks, allowing him to concentrate on writing while benefiting from a well-organized system. Moving on to \"Defining AGI,\" Ben reflects on Jensen Huang's perspective on AGI and offers his definition as AI with continuous learning capabilities. In \"The Hugging Face Incident,\" Ben debunks dramatized AI attributions and emphasizes the fundamental data storage function of AI models. Transitioning to \"A Mind For the Mind,\" Ben discusses human limitations in task organization and shares his experience in creating a system that efficiently tracks projects and tasks. In \"The Human Foundation,\" Ben underscores the intrinsic role of humans in creativity, emphasizing human agency in guiding AI development safely and the significance of writing in enhancing productivity."
+    },
+    {
+        "title": "An Interview with OpenAI President Greg Brockman About Astra and Alignment",
+        "public_url": "https://stratechery.com/2026/an-interview-with-openai-president-greg-brockman-about-astra-and-alignment/",
+        "publish_date": "Fri, 04 Sep 2026 10:00:00 +0000",
+        "file_location": "./data/An Interview with OpenAI President Greg Brockman About Astra and Alignment.md",
+        "summary": "Ben interviewed OpenAI President Greg Brockman about Astra, OpenAI's newest model. They spoke about Brockman's background, his time at Stripe, and the early years of OpenAI, touching on the ChatGPT launch, the drama of 2023, and having a billion users. They explored OpenAI's position in the value chain, competition with companies like Microsoft and Nvidia, Astra, and OpenAI's commitment to alignment, including security measures after the Hugging Face incident. Astra was discussed as part of transitioning from research to product development, aiming for alignment and generalization at scale. Brockman detailed OpenAI's focus on deploying models to solve various problems rather than a single task, emphasizing AI's beneficial application. The conversation delved into Greg Brockman's background, Stripe experiences, and OpenAI's aim inspired by the Turing test. They addressed ChatGPT's success, OpenAI's complexities, productivity, AGI potential, and Astra's launch with safety features. The AI value chain was explored regarding battles in the industry, partnerships, and cybersecurity challenges.\n"
+    },
+    {
+        "title": "Fable 5.1, Enterprise Frontier Safeguards",
+        "public_url": "https://stratechery.com/2026/fable-5-1-enterprise-frontier-safeguards/",
+        "publish_date": "Wed, 02 Sep 2026 10:00:00 +0000",
+        "file_location": "./data/Fable 5.1, Enterprise Frontier Safeguards.md",
+        "summary": "In Fable 5.1, Ben shares the removal of the controversial Fable data retention policy, focusing on the benefits of increased caching. Stratechery Plus subscription provides access to exclusive content like the Stratechery Update and Podcasts such as Sharp Tech, Sharp China, Dithering, Greatest of All Talk, and Asianometry, available for $15 per month or $150 per year. In the Frequently-Asked Questions section, Ben explains how to subscribe to the Stratechery Podcast, access content via RSS feed, individual vs. team subscriptions, switching to an annual plan, custom invoices availability, and gifting a subscription through the designated page."
+    },
+    {
+        "title": "Nvidia Earnings, Dollars Per Gigawatt, Open and Hugging Face",
+        "public_url": "https://stratechery.com/?p=19853",
+        "publish_date": "Tue, 01 Sep 2026 10:00:00 +0000",
+        "file_location": "./data/Nvidia Earnings, Dollars Per Gigawatt, Open and Hugging Face.md",
+        "summary": "The article \"Nvidia Earnings, Dollars Per Gigawatt, Open and Hugging Face \u2013 Stratechery by Ben Thompson\" discusses Nvidia's recent earnings, emphasizing the company's efforts to prevent a consolidated world. The article also mentions a subscription offer for access to exclusive content like the Stratechery Update and Stratechery Interviews, along with podcasts on various topics. In the Frequently-Asked Questions section, Ben clarifies that subscriptions are for individual use only, with the option for team subscriptions. Subscribers can switch to an annual plan for a prorated discount, while custom invoices are currently available only for annual subscribers. Additionally, subscriptions can be given as gifts through the Stratechery website's dedicated page."
+    },
+    {
+        "title": "Meta Settles, A Framework For Regulating Content, The Rest of Big Tech",
+        "public_url": "https://stratechery.com/?p=19845",
+        "publish_date": "Mon, 31 Aug 2026 10:00:00 +0000",
+        "file_location": "./data/Meta Settles, A Framework For Regulating Content, The Rest of Big Tech.md",
+        "summary": "In \"Meta Settles,\" Ben discusses how Meta's settlement is a reasonable outcome for all parties involved, highlighting the complexities of effectively regulating technology. In \"A Framework For Regulating Content,\" he emphasizes the need for a suitable approach to regulating content in the tech industry. In \"The Rest of Big Tech,\" Ben tackles various frequently asked questions related to subscribing to Stratechery, including options for podcast delivery, sharing subscriptions, team subscriptions, and annual plan discounts. He mentions that Stratechery is intentionally priced affordably to cater to students and those seeking accessible content. Ben also touches on custom invoices for annual subscribers, the ability to send gift subscriptions, and upcoming features like native support for custom invoices in Passport."
+    },
+    {
+        "title": "Apple Updates Mini and Studio, AI Computers, OpenAI Jalape\u00f1o",
+        "public_url": "https://stratechery.com/2026/apple-updates-mini-and-studio-ai-computers-openai-jalapeno/",
+        "publish_date": "Wed, 26 Aug 2026 10:00:00 +0000",
+        "file_location": "./data/Apple Updates Mini and Studio, AI Computers, OpenAI Jalape\u00f1o.md",
+        "summary": "Ben discusses how Apple's new Mini and Studio updates, along with OpenAI's Jalape\u00f1o AI computers, are putting pressure on Nvidia with their unique hardware announcements. In the Frequently-Asked Questions section, Ben explains that subscriptions to the Stratechery Podcast can be added to your favorite podcast player through the Delivery Preferences page. He mentions that sharing a subscription is against the Terms of Service, as it is intended for one subscriber only. Ben offers team subscriptions, annual plan upgrades, and mentions that students can access Stratechery at a reduced price. Additionally, Ben is willing to create custom invoices for annual subscribers, though this service is not available for monthly subscribers."
+    },
+    {
+        "title": "Netflix to Sell Streaming Services?, Streamers as Aggregators, Revisiting Roku",
+        "public_url": "https://stratechery.com/2026/netflix-to-sell-streaming-services-streamers-as-aggregators-revisiting-roku/",
+        "publish_date": "Tue, 25 Aug 2026 10:00:00 +0000",
+        "file_location": "./data/Netflix to Sell Streaming Services?, Streamers as Aggregators, Revisiting Roku.md",
+        "summary": "Ben Thompson suggests that Netflix selling other streaming services could be a positive move, despite deviating from its original strategic direction. In the Frequently-Asked Questions section, Ben explains that subscribing to the Stratechery Podcast involves visiting the Delivery Preferences page to add the podcasts to a preferred player. He also mentions that users can read Stratechery through RSS by creating a Stratechery Passport account and accessing the personalized RSS feed. Ben clarifies that sharing a Stratechery Update subscription with others is against the Terms of Service, but occasional forwarding is acceptable. Additionally, he notes that team subscriptions can be purchased and switching to an annual plan is possible with a prorated discount. Ben mentions that Stratechery intentionally keeps prices low to make it accessible to everyone, including students."
+    },
+    {
+        "title": "Autonomy and Innovation",
+        "public_url": "https://stratechery.com/2026/autonomy-and-innovation/",
+        "publish_date": "Mon, 24 Aug 2026 10:00:00 +0000",
+        "file_location": "./data/Autonomy and Innovation.md",
+        "summary": "In the article \"Autonomy and Innovation\" on Stratechery by Ben Thompson, he delves into the intricacies of \"white hat\" and \"black hat\" hackers, drawing parallels to the blurred lines between attackers and defenders in AI and cybersecurity. Ben explores the Hugging Face Incident, waiting for OpenAI's technical report to understand the broader AI risks and the urgent call for enhanced defense mechanisms. Reflecting on AI diffusion, Ben agrees with Sam Altman's acknowledgment of its slower-than-expected pace, attributing it to conservative practices and the limitations of current AI models. Ben predicts a future where startups embracing AI fully will drive disruptive innovation, contrasting with the sustaining innovation in risk-averse established companies as outlined by Clayton Christensen. This insightful analysis underscores the complex interplay of autonomy and innovation shaping the tech industry's future."
+    },
+    {
+        "title": "Apple Settles With E.U., U.S. App Store Fees, ATT Rules in Germany",
+        "public_url": "https://stratechery.com/?p=19742",
+        "publish_date": "Wed, 19 Aug 2026 10:00:00 +0000",
+        "file_location": "./data/Apple Settles With E.U., U.S. App Store Fees, ATT Rules in Germany.md",
+        "summary": "Apple Settles With E.U., U.S. App Store Fees, ATT Rules in Germany - Ben notes that Apple has reached a resolution regarding App Store fees, acknowledging the overdue adjustment and EU's satisfaction. Frequently-Asked Questions - Ben explains various subscription-related FAQs for Stratechery. Subscribers can add the Stratechery Podcast to their favorite player via Delivery Preferences after subscribing. A personalized RSS feed is available for reading Stratechery articles by creating a Stratechery Passport account and accessing Delivery Preferences. Sharing a subscription with a friend is not allowed, but forwarding updates occasionally is acceptable. Team subscriptions, annual plan upgrades, and gifts are also available options."
+    },
+    {
+        "title": "Nvidia Backs OpenAI Data Center, Anthropic News, Google Buys Spirit Airlines Data",
+        "public_url": "https://stratechery.com/2026/nvidia-backs-openai-data-center-anthropic-news-google-buys-spirit-airlines-data/",
+        "publish_date": "Tue, 18 Aug 2026 10:00:00 +0000",
+        "file_location": "./data/Nvidia Backs OpenAI Data Center, Anthropic News, Google Buys Spirit Airlines Data.md",
+        "summary": "Ben discusses Nvidia's support for OpenAI's data center, highlighting the importance of data in today's economy. Anthropic's impressive revenue growth is also noted, indicating the company's success. Additionally, Google's acquisition of Spirit Airlines data underscores the increasing value of data as a strategic asset. In the Frequently-Asked Questions section, Ben explains how subscribers can add Stratechery Podcasts to their favorite podcast player and shares guidelines on sharing subscriptions and discounts for individual and team plans. He also mentions that Stratechery keeps prices low for accessibility, including custom invoices for annual subscribers."
+    },
+    {
+        "title": "Stripe Acquiring OpenRouter, Aggregating AI?, Flipping the Business Model",
+        "public_url": "https://stratechery.com/2026/stripe-acquiring-openrouter-aggregating-ai-flipping-the-business-model/",
+        "publish_date": "Mon, 17 Aug 2026 10:00:00 +0000",
+        "file_location": "./data/Stripe Acquiring OpenRouter, Aggregating AI?, Flipping the Business Model.md",
+        "summary": "Ben Thompson discusses the potential implications of Stripe acquiring OpenRouter and the concept of aggregating AI in the future market. He also introduces his subscription service, Stratechery Plus, offering access to exclusive content like the Stratechery Update and Stratechery Interviews, along with podcasts such as Dithering and Sharp Tech. The subscription includes Stratechery Updates delivered via SMS, RSS feed, or the website, allowing for easy management of subscriptions and team plans. In the Frequently-Asked Questions section, Ben explains how to subscribe to the Stratechery Podcast, read content via RSS, and purchase gift subscriptions. The subscription is priced affordably to reach a wide audience, including students, with plans to provide custom invoices for annual subscribers."
+    },
+    {
+        "title": "Anthropic\u2019s Watermarking, How It (Probably) Works, Worse Than It Seems",
+        "public_url": "https://stratechery.com/?p=19684",
+        "publish_date": "Wed, 12 Aug 2026 10:00:00 +0000",
+        "file_location": "./data/Anthropic\u2019s Watermarking, How It (Probably) Works, Worse Than It Seems.md",
+        "summary": "Ben criticizes Anthropic's decision to implement watermarking as a response to the E.U.'s AI law, citing it as a bad idea primarily for philosophical reasons due to the broader concerns it raises beyond practical application. Subscribers can easily add the Stratechery Podcast to their favorite podcast player by adjusting their Delivery Preferences on the Stratechery website. Sharing a Stratechery Update subscription or Podcast with others goes against the Terms of Service and may lead to account suspension, but forwarding updates to interested individuals is acceptable. Ben provides a link for team subscriptions and explains how individuals can upgrade to an annual plan by accessing their account page. Students are encouraged to take advantage of Stratechery's affordability, priced intentionally lower for all audiences, including students. Ben can create custom invoices for annual subscribers tailored to government or company needs. Gifting a Stratechery subscription is possible by visiting the designated gifts page on the Stratechery website. A future update to Passport is expected to offer native support for custom invoices."
+    },
+    {
+        "title": "Nvidia\u2019s Risky Business",
+        "public_url": "https://stratechery.com/?p=19673",
+        "publish_date": "Tue, 11 Aug 2026 10:00:00 +0000",
+        "file_location": "./data/Nvidia\u2019s Risky Business.md",
+        "summary": "In \"Nvidia\u2019s Risky Business\" by Ben Thompson on Stratechery, the article draws parallels to Jay Cooke's risky financing of Northern Pacific Railway in the late 1800s to highlight potential pitfalls for Nvidia. Ben details tech giants' debt strategies like Microsoft's anomaly in maintaining strong cash flow while companies like Google and Amazon raise significant debt for infrastructure. The piece explores DeepMind's recent turmoil and Google Cloud's potential benefits, considering a fresh start for DeepMind amid bureaucratic hurdles. Google's massive investment in AI infrastructure, especially TPUs, signals a strategic edge in the evolving tech landscape akin to a Berkshire Hathaway approach. Nvidia's move to create an investable AI asset class with partners like Apollo and BlackRock presents both risks and rewards, including potential competition challenges. The article warns of the dangers Nvidia faces if AI revenues fall short, cautioning against unproven funding methods like insurance floats and pension funds in the quest for significant returns."
+    },
+    {
+        "title": "Apple Earnings, More on Amazon\u2019s Earnings",
+        "public_url": "https://stratechery.com/2026/apple-earnings-more-on-amazons-earnings/",
+        "publish_date": "Mon, 10 Aug 2026 10:00:00 +0000",
+        "file_location": "./data/Apple Earnings, More on Amazon\u2019s Earnings.md",
+        "summary": "In the \"Apple Earnings\" section, Ben discusses how Apple's stock and earnings have been impacted by chip shortages rather than memory limitations. In the \"More on Amazon\u2019s Earnings\" segment, he provides further insights into Amazon's earnings and Andy Jassy's market analysis. In the \"Frequently-Asked Questions\" part, Ben explains the process of subscribing to the Stratechery Podcast, restrictions on sharing subscriptions, team subscription availability, upgrading to an annual plan, absence of student discounts due to intentionally low pricing, customization of invoices for annual subscribers, and the option to give subscriptions as gifts through the dedicated page on the Stratechery website."
+    },
+    {
+        "title": "Google Earnings, The Frontier Case, Amazon Earnings",
+        "public_url": "https://stratechery.com/2026/google-earnings-the-frontier-case-amazon-earnings/",
+        "publish_date": "Wed, 05 Aug 2026 10:00:00 +0000",
+        "file_location": "./data/Google Earnings, The Frontier Case, Amazon Earnings.md",
+        "summary": "In the Stratechery article by Ben Thompson, Google's earnings are discussed in relation to the Anthropic hedge theory. The article also includes insights from Andy Jassy on the justifiability of Google's and Amazon's capex. Ben encourages subscribing to Stratechery Plus for access to exclusive content like the Stratechery Update and Stratechery Interviews, as well as podcasts like Sharp Tech and Sharp China. Subscription details, including additional offerings like Dithering and The Greatest of All Talk podcasts, are highlighted. In the \"Frequently-Asked Questions\" section, Ben explains how to subscribe to the Stratechery Podcast and access RSS feeds through a Stratechery Passport account. He clarifies the Terms of Service regarding sharing subscriptions, availability of team subscriptions, and the process for switching to an annual plan. Ben notes the option for custom invoices for annual subscribers and potential future support for this service within Passport. Additionally, he mentions the ability to gift subscriptions through the gifts page."
+    },
+    {
+        "title": "Microsoft Earnings, Microsoft vs. Meta, The Efficiency Payoff",
+        "public_url": "https://stratechery.com/?p=19623",
+        "publish_date": "Tue, 04 Aug 2026 10:00:00 +0000",
+        "file_location": "./data/Microsoft Earnings, Microsoft vs. Meta, The Efficiency Payoff.md",
+        "summary": "In the article by Ben Thompson on Stratechery, he begins by analyzing Microsoft's recent earnings report, commending the company's strategic approach, cost reduction efforts, and practical innovations while subtly implying some underlying concerns. Ben also contrasts Microsoft's performance with Meta, highlighting the former's efficiency and tangible results. To access exclusive content like daily news analysis, interviews, and podcasts on tech, China, and the NBA, readers are encouraged to subscribe to Stratechery Plus. Different subscription options are available, with the possibility to purchase team subscriptions, switch to annual plans for a discounted rate, or receive custom invoices for annual subscribers. The article also touches on accessibility for students, maintaining affordable prices, and offers a gifting option through the gifts page on the Stratechery website."
+    },
+    {
+        "title": "Meta Earnings, Meta\u2019s Timing Problems, The Financial Tail",
+        "public_url": "https://stratechery.com/?p=19613",
+        "publish_date": "Mon, 03 Aug 2026 10:00:00 +0000",
+        "file_location": "./data/Meta Earnings, Meta\u2019s Timing Problems, The Financial Tail.md",
+        "summary": "In the \"Meta Earnings\" section, Ben discusses Meta's recent disappointing earnings report, highlighting concerns about the company's focus on AI products in the future. In \"Meta\u2019s Timing Problems,\" he delves into the challenges Meta faces regarding timing in the rapidly evolving tech landscape. \"The Financial Tail\" section touches on the implications of Meta's financial situation and its potential impact moving forward. In the \"Frequently-Asked Questions\" section, various subscription-related FAQs are addressed, including instructions on subscribing to the Stratechery Podcast, accessing content via RSS, sharing subscriptions, team subscriptions, switching to an annual plan, student discounts, custom invoices for annual subscribers, and sending gift subscriptions."
+    },
+    {
+        "title": "OpenAI Hacks Hugging Face, What Happened, Alignment and Paper Clips",
+        "public_url": "https://stratechery.com/2026/openai-hacks-hugging-face-what-happened-alignment-and-paper-clips/",
+        "publish_date": "Wed, 22 Jul 2026 10:00:00 +0000",
+        "file_location": "./data/OpenAI Hacks Hugging Face, What Happened, Alignment and Paper Clips.md",
+        "summary": "In his article \"OpenAI Hacks Hugging Face, What Happened, Alignment and Paper Clips \u2013 Stratechery\", Ben Thompson discusses the unintended hacking of Hugging Face by OpenAI, highlighting more positive learnings from the incident. In the section \"Frequently-Asked Questions\", Ben explains how to subscribe to the Stratechery Podcast, read Stratechery via RSS, share subscriptions with friends, purchase team subscriptions, and switch to an annual plan if desired."
+    },
+    {
+        "title": "Netflix Earnings, Is Netflix Washed?, Additional Notes",
+        "public_url": "https://stratechery.com/2026/netflix-earnings-is-netflix-washed-additional-notes/",
+        "publish_date": "Tue, 21 Jul 2026 10:00:00 +0000",
+        "file_location": "./data/Netflix Earnings, Is Netflix Washed?, Additional Notes.md",
+        "summary": "Ben Thompson discusses Netflix's recent earnings, noting that they were satisfactory for a company at a mature stage, suggesting that its most innovative days may be behind it. He also invites readers to subscribe to Stratechery Plus for exclusive content like the Stratechery Update and Stratechery Interviews, along with podcasts on various topics. Subscription details, including auto-renewal information and options for multiple subscriptions, are provided for potential subscribers. In the Frequently-Asked Questions section, Ben addresses subscribing to the Stratechery Podcast, reading via RSS, sharing subscriptions, team subscriptions, annual plans, student discounts, and gift subscriptions available through the website."
+    },
+    {
+        "title": "Who\u2019s Afraid of Chinese Models?",
+        "public_url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
+        "publish_date": "Mon, 20 Jul 2026 11:00:08 +0000",
+        "file_location": "./data/Who\u2019s Afraid of Chinese Models?.md",
+        "summary": "In \"Who\u2019s Afraid of Chinese Models?,\" Ben Thompson reflects on the principles of Aggregation Theory in the tech industry, highlighting the impact of zero marginal costs on value chains. He emphasizes the significance of evaluating AI costs based on Cost of Goods Sold (COGS) rather than just Research and Development (R&D) expenses. Ben discusses the evolving concept of tokens as commodities in the intelligence market and the importance of a superior cost structure for profitability. He addresses market dynamics in commodity markets and the thriving intelligence market, where demand for frontier models exceeds supply. Concerns from frontier labs about Chinese models are examined, along with China's motivation to advance in AI through models like Qwen3.8 Max and Kimi K3. The implications of distillation attacks on Western labs and cybersecurity risks are explored, with a call for a more open approach to powerful AI models for defensive purposes. Ben advocates for a balanced playing field between the U.S. and China in AI innovation and security."
+    },
+    {
+        "title": "IBM Misses, IBM\u2019s Mainframe Moat, IBM\u2019s Many AI Problems",
+        "public_url": "https://stratechery.com/2026/ibm-misses-ibms-mainframe-moat-ibms-many-ai-problems/",
+        "publish_date": "Wed, 15 Jul 2026 10:00:19 +0000",
+        "file_location": "./data/IBM Misses, IBM\u2019s Mainframe Moat, IBM\u2019s Many AI Problems.md",
+        "summary": "In \"IBM Misses,\" Ben Thompson discusses IBM's recent financial results, highlighting the impact on the software market and specifically on IBM's mainframe business. The article delves into the importance of IBM's mainframe business due to its moat, which makes it difficult for competitors to replicate. In \"IBM\u2019s Many AI Problems,\" Ben explores the challenges IBM faces in the AI space, outlining the numerous issues the company encounters. The \"Frequently-Asked Questions\" section addresses common queries related to subscribing to Stratechery, offering concise and clear instructions on topics such as podcast subscriptions, RSS feeds, sharing subscriptions, team subscriptions, annual plans, student discounts, custom invoices, and gifting subscriptions."
+    },
+    {
+        "title": "The OpenAI Super App, ChatGPT = Codex, Whither Chat",
+        "public_url": "https://stratechery.com/?p=19506",
+        "publish_date": "Tue, 14 Jul 2026 10:00:00 +0000",
+        "file_location": "./data/The OpenAI Super App, ChatGPT = Codex, Whither Chat.md",
+        "summary": "Ben Thompson discusses OpenAI rebranding Codex as the new ChatGPT, questioning the company's shift away from chat products where they were once pioneers. In the Frequently-Asked Questions section, Ben provides details on subscribing to the Stratechery Podcast, accessing content via RSS, sharing subscriptions, team subscriptions, upgrading to an annual plan, pricing accessibility, and custom invoices for annual subscribers."
+    },
+    {
+        "title": "Apple Sues OpenAI, Apple\u2019s Real Problem",
+        "public_url": "https://stratechery.com/2026/apple-sues-openai-apples-real-problem/",
+        "publish_date": "Mon, 13 Jul 2026 10:00:00 +0000",
+        "file_location": "./data/Apple Sues OpenAI, Apple\u2019s Real Problem.md",
+        "summary": "In the article \"Apple Sues OpenAI, Apple\u2019s Real Problem \u2013 Stratechery\" by Ben Thompson, Ben discusses Apple's lawsuit against OpenAI stemming from trade secrets, noting that the blame appears to rest on a single employee with Apple's reaction seeming more defensive overall. In the \"Frequently-Asked Questions\" section, Ben explains how to subscribe to the Stratechery Podcast and access content through RSS, clarifies sharing restrictions on subscriptions and podcasts, and mentions options like team subscriptions and annual plan upgrades. Ben also points out that while there are no student discounts, the pricing is deliberately kept low to be inclusive even for students."
+    },
+    {
+        "title": "Muse Image, Grok 4.5, Alex Karp on CNBC",
+        "public_url": "https://stratechery.com/2026/muse-image-grok-4-5-alex-karp-on-cnbc/",
+        "publish_date": "Thu, 09 Jul 2026 10:00:00 +0000",
+        "file_location": "./data/Muse Image, Grok 4.5, Alex Karp on CNBC.md",
+        "summary": "Ben discusses the significance of verifiable data in the AI competition involving companies like Meta, Grok, and frontier labs in the Muse Image section of the article. Subscribers to Stratechery Plus gain access to exclusive content such as the Stratechery Update, Stratechery Interviews, and podcasts like Sharp Tech, Dithering, and Asianometry. Additionally, Sharp China offers insights on understanding China's global impact, while The Greatest Of All Talk focuses on the NBA, life, and national parks. In the Grok 4.5 segment, Ben highlights the various subscription-related questions discussed, including how to subscribe to the Stratechery Podcast through the website. Ben clarifies that sharing a subscription with a friend is not allowed but occasionally forwarding updates is acceptable. Team subscriptions and annual plan upgrades are available, with custom invoices currently exclusive to annual subscribers, but native support for this feature is in the works. The article provides a comprehensive overview of subscription options and content available to Stratechery Plus subscribers."
+    },
+    {
+        "title": "XBOX Cuts; Bundling and the Internet Solvent; Transaction, Coordination, and Sunk Costs",
+        "public_url": "https://stratechery.com/2026/xbox-cuts-bundling-and-the-internet-solvent-transaction-coordination-and-sunk-costs/",
+        "publish_date": "Wed, 08 Jul 2026 10:00:00 +0000",
+        "file_location": "./data/XBOX Cuts; Bundling and the Internet Solvent; Transaction, Coordination, and Sunk Costs.md",
+        "summary": "In the \"XBOX Cuts\" section of the Stratechery article by Ben Thompson, he discusses Microsoft's Xbox division layoffs following the failure of the Game Pass strategy. In the \"Frequently-Asked Questions\" part, Ben explains the subscription process for the Stratechery Podcast, noting that sharing subscriptions or RSS feeds is not allowed but forwarding updates occasionally is acceptable. He mentions team subscriptions, annual plan discounts, affordable pricing for students, and the option for custom invoices for annual subscribers."
+    },
+    {
+        "title": "A Script for Mark Zuckerberg",
+        "public_url": "https://stratechery.com/2026/a-script-for-mark-zuckerberg/",
+        "publish_date": "Tue, 07 Jul 2026 10:00:00 +0000",
+        "file_location": "./data/A Script for Mark Zuckerberg.md",
+        "summary": "In \"A Script for Mark Zuckerberg,\" Ben Thompson advises Mark Zuckerberg to address concerns about Meta's significant investment in AI during the earnings call, providing a historical perspective, lessons learned, and confidence in the company's future direction to justify the spending. \"A Brief History of Facebook\" elaborates on Facebook's origins from Harvard's Face Books, the impact of the feed feature, the pivotal shift to mobile, and Instagram's contribution to sustained success. In \"My Mistakes,\" Ben admits to errors in emulating tech giants, overlooking mobile transitions, investing in Reality Labs for personal reasons, and underestimating Facebook's evolution into an entertainment platform. \"The Ad Blindspot\" discusses the underestimation of the ad business, highlighting the importance of digital advertising, connecting creators with consumers, and making a positive case for Meta ads. \"Why AI Matters\" stresses AI's critical role for Meta in enhancing advertising capabilities, productivity tools, and potential for new hardware paradigms. \"The Compute Hurdle\" emphasizes the importance of investing in data centers and compute for future success, setting a hurdle rate for decision-making, prioritizing strengths in AI and advertising, and leveraging compute resources to enhance human interaction in the market."
+    },
+    {
+        "title": "An Interview with Figma CEO Dylan Field About Design and AI",
+        "public_url": "https://stratechery.com/2026/an-interview-with-figma-ceo-dylan-field-about-design-and-ai/",
+        "publish_date": "Thu, 25 Jun 2026 10:00:00 +0000",
+        "file_location": "./data/An Interview with Figma CEO Dylan Field About Design and AI.md",
+        "summary": "Ben's interview with Figma CEO Dylan Field delves into the company's journey, from its inception to its current status as a leading design platform. Field discusses Figma's pivot from a potential Adobe acquisition to IPO, navigating market fluctuations. Insights from Figma's keynotes at the Config conference underscore the company's AI and creativity stance. The conversation explores the dynamics between market perception of Figma as an AI underperformer and Field's view of AI driving innovation. Dylan details Figma's use of AI to enhance design processes, improve collaboration, and innovate in the design tool space. Ben underscores the importance of Figma's cross-functional collaboration focus, enabling better design outcomes. The background delves into Dylan's childhood musings on technology, his college journey focusing on computer science and math, and his Thiel Fellowship involvement that led to Figma's WebGL foundation. Figma's emphasis on collaboration and web-based design tools led to its launch in 2016, leveraging Apple's innovation to elevate the profile of design in technology. The evolution of Figma from individual focus to a collaborative tool, with adaptations like FigJam during the pandemic, solidified its standing as the operating system of design. The discussion of Figma's failed Adobe acquisition sheds light on the importance of differentiation in design and creativity. Market narratives about AI winners and losers are debated, emphasizing Figma's user-driven approach for continuous improvement. Config's Code on the Canvas integration, AI natives acquisitions, and Figma's path dependency are also explored, highlighting the company's agility and continuous pursuit of innovation in design and AI."
+    },
+    {
+        "title": "My Vibe Coding Adventure, The App and the Experience, Ten Takeaways",
+        "public_url": "https://stratechery.com/?p=19383",
+        "publish_date": "Wed, 24 Jun 2026 10:00:00 +0000",
+        "file_location": "./data/My Vibe Coding Adventure, The App and the Experience, Ten Takeaways.md",
+        "summary": "Ben Thompson shares his experience vibe coding an app he plans to use, exclusively available to Stratechery Plus subscribers, who also enjoy access to various podcasts and additional content like Sharp Text. Subscribers can receive updates via SMS, RSS, or the website, with the option to cancel auto-renewal anytime. Team subscriptions are available, with an option to switch to an annual plan for a discount. Ben clarifies FAQ, including subscription management and sharing limitations, mentions the lack of student discounts but emphasizes the accessible pricing for all users. Custom invoices can be requested by annual subscribers."
+    },
+    {
+        "title": "Memory Chips and China, Microsoft and Chinese Models",
+        "public_url": "https://stratechery.com/2026/memory-chips-and-china-microsoft-and-chinese-models/",
+        "publish_date": "Tue, 23 Jun 2026 10:00:00 +0000",
+        "file_location": "./data/Memory Chips and China, Microsoft and Chinese Models.md",
+        "summary": "Ben discusses the potential regrets of the big three memory makers in Memory Chips and China and explains Microsoft's strong motivation to utilize Chinese models in Microsoft and Chinese Models \u2013 Stratechery by Ben Thompson. He highlights the implications of these decisions in the tech industry. In Frequently-Asked Questions, Ben addresses various inquiries about subscribing to the Stratechery podcast and reading content via RSS, clarifying individual and team subscriptions, annual plans, student discounts, and custom invoices. He also mentions the option to gift a subscription to others through the designated gifts page."
+    },
+    {
+        "title": "Apple Price Increases, Apple Intelligence and the E.U.",
+        "public_url": "https://stratechery.com/2026/apple-price-increases-apple-intelligence-and-the-e-u/",
+        "publish_date": "Mon, 22 Jun 2026 10:00:00 +0000",
+        "file_location": "./data/Apple Price Increases, Apple Intelligence and the E.U..md",
+        "summary": "In an article by Ben Thompson on Stratechery, he discusses Apple's decision to increase prices with the introduction of Siri AI in the U.S. but not in the E.U. He also encourages readers to subscribe to Stratechery Plus for exclusive access to subscriber-only content like podcasts (Dithering, Sharp Tech, Sharp China, Greatest Of All Talk) and written content from Sharp Text. Ben mentions the availability of Stratechery Updates via SMS, RSS, or the website, along with subscription terms and options for managing multiple subscriptions for teams or companies. In the Frequently-Asked Questions section, Ben explains how to subscribe to the Stratechery Podcast, clarifies that subscriptions are for individual use only, and mentions the availability of team subscriptions. He also details how users can switch to an annual subscription plan through their account settings."
+    },
+    {
+        "title": "An Interview with Michael Morton About E-Commerce in the Age of AI",
+        "public_url": "https://stratechery.com/?p=19334",
+        "publish_date": "Thu, 18 Jun 2026 10:00:00 +0000",
+        "file_location": "./data/An Interview with Michael Morton About E-Commerce in the Age of AI.md",
+        "summary": "Ben conducted an interview with Michael Morton on e-commerce and AI. They discussed challenges like unfalsifiable bear cases, compared distribution and referral models, explored the impact of AI on grocery, and considered the role of autonomous vehicles in the industry. Moving on to Frequently-Asked Questions, Ben explained how to subscribe to the Stratechery Podcast, access Delivery Preferences, and share subscriptions against the Terms of Service. He also mentioned purchasing a team subscription, switching to an annual plan, and addressed inquiries on student discounts and custom invoices for annual subscribers."
+    },
+    {
+        "title": "The State of Fable, The Jailbreak Problem, SpaceX Acquires Cursor",
+        "public_url": "https://stratechery.com/2026/the-state-of-fable-the-jailbreak-problem-spacex-acquires-cursor/",
+        "publish_date": "Wed, 17 Jun 2026 10:00:00 +0000",
+        "file_location": "./data/The State of Fable, The Jailbreak Problem, SpaceX Acquires Cursor.md",
+        "summary": "The article \"The State of Fable, The Jailbreak Problem, SpaceX Acquires Cursor \u2013 Stratechery by Ben Thompson\" delves into the administration's possibly incorrect view on Fable, attributing responsibility to Anthropic. It also promotes the Stratechery Plus subscription, offering access to exclusive content like Stratechery Update and Stratechery Interviews, podcasts such as Dithering, Sharp Tech, Sharp China, and Greatest Of All Talk, as well as additional insights through Sharp Text. Ben addresses Frequently-Asked Questions, advising subscribers on accessing the Stratechery Podcast, using RSS through a Stratechery Passport account, and prohibiting subscription sharing while allowing occasional forwarding. Team subscriptions and an annual plan upgrade option are also highlighted."
+    },
+    {
+        "title": "Fox Buys Roku, The Problem With Fox\u2019s Smart Strategy, Streaming That Works",
+        "public_url": "https://stratechery.com/2026/fox-buys-roku-the-problem-with-foxs-smart-strategy-streaming-that-works/",
+        "publish_date": "Tue, 16 Jun 2026 10:00:00 +0000",
+        "file_location": "./data/Fox Buys Roku, The Problem With Fox\u2019s Smart Strategy, Streaming That Works.md",
+        "summary": "Ben discusses how the market disapproves of Fox's acquisition of Roku, perceiving it as Fox trading extraction from rights holders for leverage as a renter. Despite the negative reaction, Ben emphasizes Fox's strategic move and its implications. In the Frequently-Asked Questions section, Ben explains how Stratechery Podcasts can be added to a favorite podcast player after subscribing. He mentions accessing Stratechery via RSS and clarifies the terms of sharing subscriptions. Ben confirms availability of team subscriptions, switching to annual plans with discounts, and affordable pricing for students, offering custom invoices for annual subscribers. He also notes the option to give Stratechery subscriptions as gifts through the website's gifts page."
+    },
+    {
+        "title": "Anthropic\u2019s Safety Superpower",
+        "public_url": "https://stratechery.com/2026/anthropics-safety-superpower/",
+        "publish_date": "Mon, 15 Jun 2026 10:00:00 +0000",
+        "file_location": "./data/Anthropic\u2019s Safety Superpower.md",
+        "summary": "In Ben Thompson's article, \"Anthropic\u2019s Safety Superpower \u2013 Stratechery\", he delves into Anthropic's latest model releases, particularly Fable, which impressively enhances safety features surpassing existing models. Despite initial skepticism towards Anthropic's marketing tactics, Fable's capabilities stood out, albeit guardrails being circumvented post-launch. In \"Anthropic vs. the U.S. Government, Again\", Ben notes the U.S. government's suspension of access to Fable 5 and Mythos 5 citing national security concerns, triggering inevitable conflicts given the models' growing influence. Moving to \"The Economic Imperative,\" Ben examines the evolving AI landscape where user touchpoints hold increasing value, potentially leading to clashes between frontier labs and software firms. In \"The Data Imperative,\" he emphasizes the significance of data for model improvement and market competitiveness, illustrating how data policies impact companies' standing. Delving into \"The Power Imperative,\" Ben delves into Anthropic's controversial policies on model development control, hinting at potential supply chain risks due to their assertive stance. Lastly, \"The Safety Story\" analyzes Anthropic's safety-driven narrative, drawing comparisons to Apple's user-centric approach, while highlighting the implications of developing superintelligence under the guise of knowing what is best for humanity."
+    },
+    {
+        "title": "An Interview with Ben Bajarin About Apple, AI, and Compute",
+        "public_url": "https://stratechery.com/2026/an-interview-with-ben-bajarin-about-apple-ai-and-compute/",
+        "publish_date": "Thu, 11 Jun 2026 10:00:00 +0000",
+        "file_location": "./data/An Interview with Ben Bajarin About Apple, AI, and Compute.md",
+        "summary": "Ben discusses the recent WWDC event, highlighting Apple's focus on AI and computational power. He emphasizes Apple's advantage in the AI field due to its ecosystem and tight hardware-software integration. Ben underlines the significance of Apple's investment in computational power for enhancing user experience. In the Frequently-Asked Questions section, Ben provides insights on managing Stratechery Podcast subscriptions, including subscribing, reading via RSS, sharing subscriptions, team subscriptions, annual plans, student discounts, custom invoices, and gifting subscriptions. He advises adhering to the Terms of Service and hints at potential future support for custom invoices through Passport Updates. Ben also mentions the affordability of Stratechery to cater to student needs."
+    },
+    {
+        "title": "Fable 5, Anthropic Alignment, AI Tiers",
+        "public_url": "https://stratechery.com/2026/fable-5-anthropic-alignment-ai-tiers/",
+        "publish_date": "Wed, 10 Jun 2026 10:00:00 +0000",
+        "file_location": "./data/Fable 5, Anthropic Alignment, AI Tiers.md",
+        "summary": "In Fable 5, Ben discusses how the public version of Mythos, known as Fable 5, sets concerning new precedents despite being highly capable. Stratechery Plus offers access to subscriber-only content like the Stratechery Update and Stratechery Interviews, along with podcasts such as Dithering, Sharp Tech, Sharp China, Greatest of All Talk, and Asianometry. Sharp Text is an extension of Sharp Tech and Sharp China, where Andrew writes about basketball, technology, and US-China relations with weekly posts. Subscribers can receive the Stratechery Updates via SMS, RSS, or the website, with subscriptions available on a monthly or yearly basis with the option to cancel at any time. Ben explains how to subscribe to the Stratechery Podcast by following the instructions on the Delivery Preferences page after subscribing. Readers can access Stratechery via RSS by creating a Stratechery Passport account and adding a personalized RSS feed. Sharing a Stratechery Update subscription is not allowed, but occasional forwarding of updates is acceptable. Team subscriptions, switching to an annual plan, and offering student discounts are available, with custom invoices for annual subscribers upon request. Those interested in gifting a subscription can do so by visiting the gifts page on Stratechery's website."
+    },
+    {
+        "title": "The iPhone\u2019s Last Stand",
+        "public_url": "https://stratechery.com/2026/the-iphones-last-stand/",
+        "publish_date": "Tue, 09 Jun 2026 10:00:00 +0000",
+        "file_location": "./data/The iPhone\u2019s Last Stand.md",
+        "summary": "In \"The iPhone\u2019s Last Stand\" on Stratechery by Ben Thompson, Ben discusses the shift in perspective on vaporware, noting Apple's recent misstep with Apple Intelligence and new Siri. \"Project Solara\" introduces Microsoft's vision of a thin client model ecosystem at the Build conference, aligning with Ben's belief in server-side inference for AI tasks. \"Siri AI\" delves into Apple's Siri advancements at WWDC 2024, emphasizing its personal context and iPhone data utilization. In \"The Consumer Market,\" Ben highlights the consumer entertainment focus, contrasting it with the enterprise focus of tech companies like Dropbox and OpenAI. \"The iPhone\u2019s Centrality\" emphasizes Apple's strategic focus on revamping Siri specifically for iPhones, utilizing Nvidia chips and on-device models for optimal performance. Ultimately, Ben's analysis showcases how Apple leverages the iPhone's centrality to differentiate itself in the consumer market, setting it apart from Microsoft's enterprise-centric approach with Project Solara."
+    },
+    {
+        "title": "Google Buys Compute From SpaceX, Broadcom\u2019s Outlook, Apple\u2019s AI Politics",
+        "public_url": "https://stratechery.com/2026/google-buys-compute-from-spacex-broadcoms-outlook-apples-ai-politics/",
+        "publish_date": "Mon, 08 Jun 2026 10:00:00 +0000",
+        "file_location": "./data/Google Buys Compute From SpaceX, Broadcom\u2019s Outlook, Apple\u2019s AI Politics.md",
+        "summary": "Ben Thompson discusses Google's acquisition of compute from SpaceX and Broadcom's positive earnings, noting the potential benefits for Nvidia. He also anticipates what will be revealed at WWDC and highlights the subscription perks of Stratechery Plus, including exclusive content like the Stratechery Update, Stratechery Interviews, and podcasts such as Dithering, Sharp Tech, Sharp China, Greatest of All Talk, and Sharp Text. In the Frequently-Asked Questions section, Ben explains how subscribers can add Stratechery Podcasts to their favorite podcast player, addresses sharing restrictions, team subscriptions, switching to an annual plan, affordability for students, and creating custom invoices for annual subscribers upon request."
+    },
+    {
+        "title": "An Interview with Microsoft CEO Satya Nadella About Finding Core Competencies",
+        "public_url": "https://stratechery.com/2026/an-interview-with-microsoft-ceo-satya-nadella-about-finding-core-competencies/",
+        "publish_date": "Thu, 04 Jun 2026 10:00:00 +0000",
+        "file_location": "./data/An Interview with Microsoft CEO Satya Nadella About Finding Core Competencies.md",
+        "summary": "In an interview with Microsoft CEO Satya Nadella, conducted by Ben Thompson for Stratechery, several key topics were covered. Nadella discussed Microsoft's strategy of focusing on core competencies, particularly in AI and cloud computing, which has led to significant company growth. They explored Microsoft's competitive position, emphasizing the importance of understanding unique capabilities and avoiding ventures driven by envy. The conversation delved into the development of MAI models and the partnership with OpenAI, highlighting Microsoft's investment decisions and capex allocation. They discussed the evolving software business model, GitHub Copilot, and the introduction of Project Solara, shifting towards cloud-based solutions. Additionally, there were reflections on addressing community concerns related to data centers through innovative approaches like direct payments or a Universal Basic Income model to prioritize community value creation."
+    },
+    {
+        "title": "The Nvidia AI PC, Project Solara, Microsoft AI",
+        "public_url": "https://stratechery.com/2026/the-nvidia-ai-pc-project-solara-microsoft-ai/",
+        "publish_date": "Wed, 03 Jun 2026 10:00:00 +0000",
+        "file_location": "./data/The Nvidia AI PC, Project Solara, Microsoft AI.md",
+        "summary": "In his article on Stratechery, Ben Thompson discusses three main topics. First, he delves into \"The Nvidia AI PC,\" examining Nvidia's upcoming AI PC chip, the RTX Spark, which may face challenges aligning with current AI trends favoring CPU over GPU performance. Next, Ben explores \"Project Solara,\" Microsoft's platform for AI agents to revolutionize computing through a cloud-based ecosystem of devices working together. Finally, in \"Microsoft AI,\" Ben highlights Microsoft's shift towards developing its own AI models, showcasing seven homegrown models at a developer conference and offering enterprise customization through Microsoft Frontier Tuning, potentially appealing to cautious businesses. "
+    },
+    {
+        "title": "The Google Capital Company",
+        "public_url": "https://stratechery.com/?p=19180",
+        "publish_date": "Tue, 02 Jun 2026 10:00:00 +0000",
+        "file_location": "./data/The Google Capital Company.md",
+        "summary": "In \"The Google Capital Company,\" Ben Thompson discusses Google's unique business model where suppliers offer free content and users indirectly determine payment, drawing praise from Warren Buffett while highlighting Google's focus on absolute value over relative quality. He contrasts tech companies' traditional profit-maximizing approach with Google's aggregator model. Moving on to \"Berkshire Hathaway and Productive Capital,\" Ben outlines Buffett's shift from undervalued investments to acquiring top-tier companies like See's Candies and BNSF Railway, illustrating different capital needs and efficient allocation strategies. In \"Google Cloud\u2019s Runway,\" Ben analyzes the financial performance of Google Cloud compared to Google Services, pondering if the latter can support the former akin to See's Candies with BNSF. \"Berkshire Hathaway and Google Equity\" explores Alphabet's equity offerings and Berkshire's strategic investment in Google, potentially driven by AI and high return prospects. In \"Cash the Ultimate Commodity,\" Ben underscores cash's pivotal role in tech, exemplified by Anthropic securing compute resources through cash deals, hinting at a future where cash determines access to compute. Berkshire Hathaway's alignment with this principle suggests a strategic bet on financial prowess in tech."
+    },
+    {
+        "title": "YouTubers Win the Box Office, Goodbye Gatekeepers, The YouTube Bar",
+        "public_url": "https://stratechery.com/2026/youtubers-win-the-box-office-goodbye-gatekeepers-the-youtube-bar/",
+        "publish_date": "Mon, 01 Jun 2026 10:00:00 +0000",
+        "file_location": "./data/YouTubers Win the Box Office, Goodbye Gatekeepers, The YouTube Bar.md",
+        "summary": "In the article \"YouTubers Win the Box Office\" on Stratechery by Ben Thompson, Ben discusses how YouTubers are surpassing Hollywood gatekeepers in dominating the box office, attributing this success to the higher bar of achievement set on YouTube. In the \"Frequently-Asked Questions\" section, Ben clarifies that the Stratechery Podcast can be easily added to preferred podcast players through the Delivery Preferences on the Stratechery website and accessed via RSS by creating a Stratechery Passport account. He emphasizes the individual subscription nature of the Stratechery Update and Stratechery Podcast subscriptions, discouraging sharing with others, while also mentioning the availability of team subscriptions and the option to switch to an annual plan with a prorated discount upon upgrade."
+    },
+    {
+        "title": "An Interview with Eric Seufert About Models and Ads, and AI\u2019s Upside for Humanity",
+        "public_url": "https://stratechery.com/2026/an-interview-with-eric-seufert-about-models-and-ads-and-ais-upside-for-humanity/",
+        "publish_date": "Thu, 28 May 2026 10:00:00 +0000",
+        "file_location": "./data/An Interview with Eric Seufert About Models and Ads, and AI\u2019s Upside for Humanity.md",
+        "summary": "In An Interview with Eric Seufert About Models and Ads, Ben discusses the importance of building models for generative AI and highlights the significance of Meta's foundational models in this context. Understanding advertising, according to Ben, leads to optimism about humanity's future. In Frequently-Asked Questions, Ben explains how to subscribe to the Stratechery Podcast, read via RSS, and share updates within the guidelines. He also mentions team subscriptions, annual plans, student discounts, custom invoices, gifting subscriptions, and upcoming features in Passport."
+    },
+    {
+        "title": "The SpaceX IPO and Data Centers in Space",
+        "public_url": "https://stratechery.com/2026/the-spacex-ipo-and-data-centers-in-space/",
+        "publish_date": "Wed, 27 May 2026 10:00:00 +0000",
+        "file_location": "./data/The SpaceX IPO and Data Centers in Space.md",
+        "summary": "In a Stratechery article by Ben Thompson, Ben delves into various topics starting with the discussion of the Tesla Model Y's presence on the Uber Black list and its tech-forward allure, reflecting Tesla's focus on cutting-edge technology. Moving on, he explores American Airlines' partnership with Starlink to enhance in-flight Wi-Fi, highlighting Starlink's disruptive approach and strategic advantage in leveraging SpaceX's resources. Ben then delves into SpaceX's valuation ambitions, drawing parallels to Tesla's valuation and emphasizing Elon Musk's visionary track record. He further discusses the case for data centers in space, citing the feasibility and benefits for agentic inference workloads. Lastly, Ben weighs in on the SpaceX IPO and its potential to drive innovation, despite concerns about overvaluation, and sees it as a way for retail investors to support ambitious projects like Mars exploration."
+    },
+    {
         "title": "Walmart on ChatGPT, Walmart (and Amazon) Motivations, Spotify Podcasts on Netflix",
         "public_url": "https://stratechery.com/?p=17285",
         "publish_date": "Thu, 16 Oct 2025 10:00:00 +0000",
