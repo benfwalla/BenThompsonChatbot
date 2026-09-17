@@ -9,7 +9,7 @@ import feedparser
 import json
 from pprint import pprint
 import chromadb.utils.embedding_functions as embedding_functions
-from langchain.text_splitter import Language, RecursiveCharacterTextSplitter
+from langchain_text_splitters import Language, RecursiveCharacterTextSplitter
 from summarize import summarize_article
 
 warnings.filterwarnings("ignore")
