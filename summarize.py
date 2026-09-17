@@ -1,4 +1,4 @@
-from langchain.text_splitter import MarkdownHeaderTextSplitter
+from langchain_text_splitters import MarkdownHeaderTextSplitter
 from openai import OpenAI
 from pprint import pprint
 import dotenv

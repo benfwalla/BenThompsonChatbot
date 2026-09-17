@@ -2,6 +2,7 @@ requests
 chromadb
 feedparser
 langchain
+langchain-text-splitters
 langchain-openai
 langsmith
 openai
