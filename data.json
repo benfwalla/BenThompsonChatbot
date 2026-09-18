@@ -1,5 +1,12 @@
 [
     {
+        "title": "Doomforce",
+        "public_url": "https://stratechery.com/2026/doomforce/",
+        "publish_date": "Fri, 18 Sep 2026 17:00:00 +0000",
+        "file_location": "./data/Doomforce.md",
+        "summary": "In the Doomforce section of Stratechery by Ben Thompson, three key articles are highlighted. Ben discusses the importance of addressing real problems in AI doom scenarios, emphasizing the need for practical solutions. He also touches on the limited potential for a pacing deal between China and the U.S., highlighting the CCP's adeptness at managing AI risks. Lastly, Ben explores Salesforce's significant shift towards integrating Anthropic and OpenAI chatbots as the preferred UI for customers, signaling a departure from previous strategies."
+    },
+    {
         "title": "An Interview with Joanna Stern About the iPhone Duo and AI for Normal People",
         "public_url": "https://stratechery.com/2026/an-interview-with-joanna-stern-about-the-iphone-duo-and-ai-for-normal-people/",
         "publish_date": "Thu, 17 Sep 2026 10:00:00 +0000",
