@@ -1,5 +1,12 @@
 [
     {
+        "title": "Frontier Overhangs",
+        "public_url": "https://stratechery.com/2026/frontier-overhangs/",
+        "publish_date": "Mon, 21 Sep 2026 10:00:00 +0000",
+        "file_location": "./data/Frontier Overhangs.md",
+        "summary": "In a recent article by Ben Thompson on Stratechery, he delves into the concerns of the AI community regarding doomsday scenarios and the philosophy behind prioritizing safety over innovation and freedom. Ben expresses skepticism towards this philosophy, advocating for doubt in predicting the future while trusting in humanity's problem-solving abilities. He explores the intertwining of Effective Altruism with Anthropic's safety goals and Dario Amodei's proposal to 'Pace the Frontier' as a solution to overhangs from rapid AI model advancements. Ben shares insights on agentic AI capabilities in the Capability Overhang section, reflecting on the integration of models and harnesses in the AI industry and the impact on companies like Anthropic and OpenAI. He discusses companies moving towards modular product architecture and shifting customer preferences beyond pure performance. In the Product Overhang, Ben highlights the economic incentives for frontier labs to establish control over user touchpoints and discusses the competitive advantage of personal agent products. He points out that advancements in model capabilities enable creating products with strong moats, suggesting a focus on product development for Anthropic and OpenAI. Ben refutes concerns of Chinese models surpassing frontier labs in the Pricing Overhang, emphasizing the significance of cost structures and scaling advantages. He mentions the challenges in addressing pricing due to overwhelming demand for leading model providers. In the Capital Overhang, Ben discusses risks in novel funding mechanisms in the AI space, focusing on NVIDIA's initiatives and the need for AI revenue growth to match escalating training costs. Lastly, in the Safety Overhang, Ben disagrees with the AI safety movement's framework, emphasizing the real cybersecurity risks from the capability overhang. He suggests the need for autonomous defense systems to counter offensive automated attacks effectively."
+    },
+    {
         "title": "Doomforce",
         "public_url": "https://stratechery.com/2026/doomforce/",
         "publish_date": "Fri, 18 Sep 2026 17:00:00 +0000",
