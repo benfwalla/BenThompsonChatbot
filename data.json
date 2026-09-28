@@ -1,5 +1,12 @@
 [
     {
+        "title": "Apps, Agents, and Aggregation",
+        "public_url": "https://stratechery.com/2026/apps-agents-and-aggregation/",
+        "publish_date": "Mon, 28 Sep 2026 10:25:37 +0000",
+        "file_location": "./data/Apps, Agents, and Aggregation.md",
+        "summary": "In a Stratechery article by Ben Thompson, he reflects on the evolution of smartphones from Steve Jobs' introduction of the iPhone to the current shift towards messaging and natural interfaces for AI communication. Ben highlights the significance of messaging apps as a killer use case for smartphones and critiques Meta's altered focus post WhatsApp acquisition. He discusses the rise of agents as essential interfaces for AI access and showcases how Muse enhances user capabilities through virtual machines. Ben explores the potential of generative AI for UI interfaces and predicts a future where companies solving the scarcity of inspiration will wield significant power. He delves into Microsoft's unveiling of Copilot as a \"super app,\" integrating chat, coding, and AI assistance as an evolution of the OS for work. Ben perceives Copilot and Muse as platforms for aggregation, centralizing tasks and streamlining user interactions. He anticipates a future where agents replace apps, especially in enterprise settings, with companies like Meta and Microsoft leading the way in this transition towards agent-based interfaces."
+    },
+    {
         "title": "Begun, the Aggregator Wars Have",
         "public_url": "https://stratechery.com/2026/begun-the-aggregator-wars-have/",
         "publish_date": "Fri, 25 Sep 2026 17:00:00 +0000",
