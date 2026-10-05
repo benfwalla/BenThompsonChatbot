@@ -1,5 +1,12 @@
 [
     {
+        "title": "Apple and a Hacker\u2019s Future",
+        "public_url": "https://stratechery.com/2026/apple-and-a-hackers-future/",
+        "publish_date": "Mon, 05 Oct 2026 10:00:00 +0000",
+        "file_location": "./data/Apple and a Hacker\u2019s Future.md",
+        "summary": "In the article \"Apple and a Hacker\u2019s Future\" on Stratechery by Ben Thompson, the author recounts a hacking incident on his computer through a macOS vulnerability, patched by Apple, which allowed crypto-miners to be installed. Ben's agent, Claude, protected his system by detecting and addressing the malware before the public disclosure of the vulnerability. However, Apple's updates to Full Disk Access in macOS pose challenges for agents like Claude due to permission prompts, hindering their operation. Ben expresses frustration over the exploited vulnerability, reliance on Apple's security updates, and increased demands for permissions. He discusses Apple's upcoming smart-home product launch and reflects on his skepticism towards Siri's performance and Apple's constraints in his daily life. Ben highlights the limitation of app integration for Siri compared to browser-based agents and ponders Paul Graham's insight into hackers' technology preferences. Ultimately, Ben contemplates a future where his technological choices might shift away from Apple products towards a focus on personal computing exploration and agentic abstraction, driven by AI empowerment and individual hacking capabilities."
+    },
+    {
         "title": "Dots and Question Marks",
         "public_url": "https://stratechery.com/2026/dots-and-question-marks/",
         "publish_date": "Fri, 02 Oct 2026 17:00:00 +0000",
